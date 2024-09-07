@@ -1,4 +1,5 @@
-## To-Be Scenario Mapping
+# Capítulo III  
+## 3.1 To-Be Scenario Mapping
 
 **Segmento Objetivo: Turista**
 
@@ -137,6 +138,14 @@
 |US24 | Ver historial de turistas atendidos | Como guía, quiero tener acceso a un historial de turistas que he atendido en el pasado, incluyendo sus datos de contacto y detalles de los tours realizados, para mantener un registro organizado y poder brindar un mejor servicio en futuras interacciones| ESCENARIO: Ver historial de turistas que lo contrataron<br> Dado que el guía necesita revisar la lista de turistas que contrataron su servicio Cuando ingrese a la sección de gestión de su cuenta Y ingrese al historial de turistas Entonces el guía podrá revisar toda la lista con los nombres de los turistas que lo contrataron<br> ESCENARIO: Ver detalle de servicio brindado por turista<br> Dado que el guía necesita revisar con detalle el servicio brindado a un turista en específico Cuando ingrese a uno de los turistas aparecidos en el historial de turistas Entonces el guía podrá revisar a detalle la información del servicio a dicho turista|
 |US25 | Personalizar ofertas | Como guía, quiero tener la capacidad de personalizar las ofertas y los itinerarios de los tours según las preferencias y necesidades específicas de los turistas, para ofrecer experiencias de viaje más personalizadas y memorables | ESCENARIO: Personalizar ofertas<br> Dado que el guía necesita ofrecer ofertas para atraer turistas Cuando ingrese a la sección de gestión de su cuenta, ingrese a generar ofertas Y cree una oferta rellenando los campos, dando clic a aceptar Entonces el guía podrá generar una oferta en sus servicios, que le ayudarán a atraer más turistas|
 
+## 3.3 Impact Mapping
+
+**Segmento Objetivo: Turista**
+![Impact Turista](https://media.discordapp.net/attachments/1281807145603436607/1281867912843362335/image.png?ex=66dd4806&is=66dbf686&hm=9219376d804293eb7af47042d3df0dadc58e4700f5fa9ff6a150889b2a92e777&=&format=webp&quality=lossless)
+
+**Segmento Objetivo: Guía Turístico**
+
+![Impact Turista](https://media.discordapp.net/attachments/1281807145603436607/1281867933601234977/image.png?ex=66dd480b&is=66dbf68b&hm=f2aa4112970cd495b53cb006dc59a3f99db8bac28c14e13648b62d18b15bc5ed&=&format=webp&quality=lossless)
 
 
 
