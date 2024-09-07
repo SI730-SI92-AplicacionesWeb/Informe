@@ -312,15 +312,6 @@ Segmento Objetivo #2: **Guías turísticos experimentados (18+ años)**
 Este segmento está compuesto por guías turísticos experimentados, mayores de 18 años, que necesitan una herramienta efectiva para conectarse con más clientes. Buscan una plataforma que funcione como intermediario, facilitando la promoción de sus servicios en las zonas turísticas donde operan.
 
 
-## [Conclusiones](#conclusiones)
-- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [Video about the team](#video-about-the-team)
-
-## [Bibliografía](#bibliografía)
-## [Anexos](#anexos)
-Anexo 1: Link del Lean Ux Canvas: 
-https://www.figma.com/design/k4KqWTBoMiBt56x1bP2Nys/Untitled?node-id=0-3&t=tOGrjWOTQ5eWb0Ko-1   
-
 # Capítulo II : Requirements Elicitation & Analysis 	
 
 ## 2.1 Competidores
@@ -338,3 +329,5 @@ A continuación, mencionaremos algunos de los competidores de nuestro rubro:
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+Anexo 1: Link del Lean Ux Canvas: 
+https://www.figma.com/design/k4KqWTBoMiBt56x1bP2Nys/Untitled?node-id=0-3&t=tOGrjWOTQ5eWb0Ko-1   
