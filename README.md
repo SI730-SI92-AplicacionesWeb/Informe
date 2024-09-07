@@ -37,6 +37,76 @@
     <td><strong>US05</strong> - Iniciar sesión</td>
     <td><strong>US06</strong> - Restablecer contraseña</td>
   </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 3: Gestionar datos de usuario</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US07</strong> - Gestionar certificación de guía</td>
+    <td><strong>US08</strong> - Configurar datos de usuario</td>
+  </tr>
+  <tr>
+    <td><strong>US09</strong> - Eliminar cuenta</td>
+    <td><strong>US10</strong> - Cerrar sesión</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 4: Buscar guías turísticos</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US11</strong> - Buscar guía</td>
+    <td><strong>US12</strong> - Filtrar búsqueda de guías</td>
+  </tr>
+  <tr>
+    <td><strong>US13</strong> - Ver información personal del guía</td>
+    <td><strong>US14</strong> - Administrar favoritos y listas de deseos de guías</td>
+  </tr>
+  <tr>
+    <td><strong>US15</strong> - Contratar servicio de guía</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 5: Gestionar servicio de pago y facturación</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US16</strong> - Reservar servicio de guía</td>
+    <td><strong>US17</strong> - Pagar servicio</td>
+  </tr>
+  <tr>
+    <td><strong>US18</strong> – Generar recibo electrónico</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 6: Gestionar funcionalidades sociales del guía</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US19</strong> – Revisar valoraciones y reseñas sobre guías</td>
+    <td><strong>US20</strong> - Generar valoraciones y reseñas sobre guías</td>
+  </tr>
+  <tr>
+    <td><strong>US21</strong> – Compartir experiencias en redes sociales</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 7: Gestionar información del servicio de turista</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US22</strong> – Gestionar servicio de turista</td>
+    <td><strong>US23</strong> – Ver métricas de servicio del guía</td>
+  </tr>
+  <tr>
+    <td><strong>US24</strong> - Ver historial de turistas atendidos</td>
+    <td><strong>US25</strong> – Personalizar ofertas</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 8: Landing Page</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US26</strong> – Ver detalles generales del servicio</td>
+    <td><strong>US27</strong> - Actualizar producto</td>
+  </tr>
+  <tr>
+    <td><strong>US28</strong> - Buscar producto</td>
+    <td><strong>US29</strong> - Generar historial de inventario</td>
+  </tr>
 </table>
 
 
