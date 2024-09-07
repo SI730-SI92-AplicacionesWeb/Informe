@@ -57,60 +57,34 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 
 #### 5.2.1.1. Sprint Planning 1
 
-<table>
-  <tr>
-    <td><strong>Sprint #</strong></td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Date</strong></td>
-    <td>30/03/2024</td>
-  </tr>
-  <tr>
-    <td><strong>Time</strong></td>
-    <td>08:00 pm</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Reunión virtual a través del Google Meet</td>
-  </tr>
-  <tr>
-    <td><strong>Prepared by</strong></td>
-    <td>Max Anthony Paitan Pumacahua</td>
-  </tr>
-  <tr>
-    <td><strong>Attendees (to planning meeting)</strong></td>
-    <td>Alexander Alberto Cantoral Sedamano, Max Anthony Paitan Pumacahua, Carlos Alejandro de la Cruz Villareal, Diego Rolin Acuña Tomas, Miguel Angel Gomez Hurtado</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint n - 1 Review Summary</strong></td>
-    <td>En esta primera reunión de grupo realizada nos centramos en la asignación de tareas para la realización de la documentación a presentar para la primera entrega, así como también iniciar con la primera versión del Landing Page. Se repartió el trabajo y se designó responsabilidades a cada uno.</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint n - 1 Retrospective Summary</strong></td>
-    <td>No existen resultados anteriores dado que es la primera reunión grupal.</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Sprint n Goal</strong></td>
-    <td>Crear la landing page de nuestro sitio web, y la métrica de cumplimiento fue que la primera versión de dicha landing page esté lista antes de la fecha de presentación.</td>
-  </tr>
-  <tr>
-    <td><strong>Sprint n Velocity</strong></td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td><strong>Sum of Story Points</strong></td>
-    <td>11</td>
-  </tr>
-</table>
+| **Sprint #** | 1 |
+|--------------|---|
+| **Sprint Planning Background** |   |
+| **Date** | 30/03/2024 |
+| **Time** | 08:00 pm |
+| **Location** | Reunión virtual a través del Google Meet |
+| **Prepared by** | Max Anthony Paitan Pumacahua |
+| **Attendees (to planning meeting)** | Alexander Alberto Cantoral Sedamano, Max Anthony Paitan Pumacahua, Carlos Alejandro de la Cruz Villareal, Diego Rolin Acuña Tomas, Miguel Angel Gomez Hurtado |
+| **Sprint n - 1 Review Summary** | En esta primera reunión de grupo realizada nos centramos en la asignación de tareas para la realización de la documentación a presentar para la primera entrega, así como también iniciar con la primera versión del Landing Page. Se repartió el trabajo y se designó responsabilidades a cada uno. |
+| **Sprint n - 1 Retrospective Summary** | No existen resultados anteriores dado que es la primera reunión grupal. |
+| **Sprint Goal & User Stories** |   |
+| **Sprint n Goal** | Crear la landing page de nuestro sitio web, y la métrica de cumplimiento fue que la primera versión de dicha landing page esté lista antes de la fecha de presentación. |
+| **Sprint n Velocity** | 9 |
+| **Sum of Story Points** | 11 |
+
 
 #### 5.2.1.2. Sprint Backlog 1
+
+| **Sprint #**       | **Sprint 1**                                |                  |                                            |                                                                                                   |                        |                         |            |
+|--------------------|---------------------------------------------|------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|-------------------------|------------|
+| **User Story ID**  | **Title**                                   | **Work-Item ID** | **Title**                                  | **Description**                                                                                   | **Estimation (Hours)** | **Assigned To**         | **Status** |
+| US26               | Ver detalles generales del servicio         | T001             | Implementar el header, main y footer       | El desarrollador implementa los componentes señalados del landing page                             | 3 Horas                | Alexander Cantoral      | Done       |
+|                    |                                             | T002             | Realizar una limpieza de código            | Corrección de errores y modificación de textos                                                     | 0.5 Horas              | Max Paitan               | Done       |
+| US27               | Ver misión y visión del proyecto            | T001             | Implementar la opción de misión y visión   | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 Horas                | Alexander Cantoral      | Done       |
+| US28               | Revisar los servicios ofrecidos             | T001             | Implementar la opción de servicios         | Implementar los componentes y lógica para el botón atajo de servicio en el header                   | 1 Hora                 | Alexander Cantoral      | Done       |
+|                    |                                             | T002             | Implementar los servicios                  | Implementación de los componentes y vista de servicios en el main                                  | 1 Hora                 | Alexander Cantoral      | Done       |
+| US29               | Obtener contacto con los administradores    | T001             | Implementar la opción de contacto          | El desarrollador implementa la opción-atajo de contacto del landing page en el header               | 0.5 Horas              | Alexander Cantoral      | Done       |
+|                    |                                             | T002             | Implementar sección de contacto            | El desarrollador implementa la sección de contacto del landing page                                 | 1 Hora                 | Alexander Cantoral      | Done       |
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
