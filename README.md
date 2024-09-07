@@ -91,5 +91,23 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
+- Evento: Es el elemento del historial del usuario, la informacion de cada tour que pago y las caracteristicas del servicio con su fecha.
+- Búsqueda: En esta clase se encuentran las funciones para buscar y mostrar los tours disponibles, basados en los parametros del cliente.
+- Cliente: Es una cuenta de Cliente, usuario que quiere un servicio de tour, en esta clase se guarda su historial, junto con sus preferencias de busqueda.
+- Reserva: Son los datos de la reserva que el Cliente pide por un tour, informacion como si fue aceptado, id del cliente y del guia.
+- Parametros: Aqui guardamos el conjunto de caracteristica que el usuario pide antes de iniciar la busqueda
+- Valoración:Es la relevancia que posee un Guia, basado en los comentarios y calificacion de los Clientes
+- Menú:Contiene la informacion de la pagina principal, y todas las funciones que ofrece para cada tipo de Usuario
+- Herramienta: Contiene la informacion de las herramientas para promocionar los servicios del guia, o las busqueda de servicio.
+- Usuario: Clase padre de Cliente y Guia, contiene toda la informacion indispensable al crear una cuenta.
+- Guia:Contiene la informacion que se publicara del guia turistico.
+- Tour:Toda la informacion del servicio que el guia ofrecera.
+- Mapa:Informacion sobre el recorrido y los lugares que se visitaran
+- Promocion: Informacion de los eventos y promociones que el guia quiere ofrecer
+- Pago:En esta clase se guarda todo lo relacionado con el pago, los descuentos y parte de nuestra startup
+- Lugar:Informacion de las ubicaciones que se visitaran en el tour
+- Comentario:Descripcion de la opinion del cliente y su numero de estrellas
+- Valoracion:Relevancia de un Guia por los comentarios de los clientes
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+![imag](https://media.discordapp.net/attachments/1281807145603436607/1281911247431798877/image.png?ex=66dd7062&is=66dc1ee2&hm=696d440d98061d3977a66d4c07152b1836ab01dd4178c2c2677d3ee3e126630c&=&format=webp&quality=lossless&width=981&height=559)
