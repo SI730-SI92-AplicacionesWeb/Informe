@@ -844,7 +844,7 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 ### 4.4.1. Web Applications Wireframes
 ![Web Applications Wireframes-1](https://media.discordapp.net/attachments/1203942564219330582/1281895483630944316/image.png?ex=66dd61b3&is=66dc1033&hm=fd83bc76fa4809c5c2fb1203a6ebd6859fb9745d4f91286367c003e900b9ad14&=&format=webp&quality=lossless&width=675&height=320)
 ![Web Applications Wireframes-2](https://media.discordapp.net/attachments/1203942564219330582/1281895565466013696/image.png?ex=66dd61c7&is=66dc1047&hm=04d4c9ad1479617d787f73fc8f342c6052f65392809df805f03320c56edacf74&=&format=webp&quality=lossless&width=675&height=320)
-![Web Applications Wireframes-3](https://media.discordapp.net/attachments/1281807145603436607/1281924715837001728/image.png?ex=66dd7ced&is=66dc2b6d&hm=ec3c09a8cbccba11d3a622f0a4e50d08a9ded55eb400b355246f7a7a26aa131a&=&format=webp&quality=lossless&width=1025&height=329)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ![Web Applications Wireflow Diagrams](https://media.discordapp.net/attachments/1203942564219330582/1281895045959651449/image.png?ex=66dd614b&is=66dc0fcb&hm=d6865f0503b5378183449a52357300d4dd4ed4d6985b516613ce072877bbe827&=&format=webp&quality=lossless&width=675&height=320)
 ### 4.4.3. Web Applications Mock-ups
