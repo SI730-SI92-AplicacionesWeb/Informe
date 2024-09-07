@@ -1,6 +1,6 @@
 # Capítulo V: Product Implementation, Validation & Deployment
-## 5.1. Software Configuration Management
 
+## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
 
 
@@ -51,11 +51,82 @@ Los pasos para el despliegue del Landing Page son:
 5. Al completarse el despliegue, se generará un enlace para acceder a la Landing Page.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-
 ### 5.2.1. Sprint 1
 
 En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en el que el equipo se concentra en completar todas las actividades necesarias para alcanzar el "Product Goal" o meta del producto.
 
-### 5.2.1.1. Sprint Planning 1
+#### 5.2.1.1. Sprint Planning 1
 
-Un Sprint es un ciclo breve y específico utilizado en metodologías ágiles como Scrum, durante el cual se llevan a cabo ciertas tareas o actividades para avanzar en un proyecto. El Sprint #1, que comienza el 12 de agosto de 2024, tiene como meta principal crear una landing page atractiva para Turisteando. Esta página web deberá capturar la atención de los usuarios potenciales y destacar los beneficios clave de nuestro producto.
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>30/03/2024</td>
+  </tr>
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>08:00 pm</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunión virtual a través del Google Meet</td>
+  </tr>
+  <tr>
+    <td><strong>Prepared by</strong></td>
+    <td>Max Anthony Paitan Pumacahua</td>
+  </tr>
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>Alexander Alberto Cantoral Sedamano, Max Anthony Paitan Pumacahua, Carlos Alejandro de la Cruz Villareal, Diego Rolin Acuña Tomas, Miguel Angel Gomez Hurtado</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint n - 1 Review Summary</strong></td>
+    <td>En esta primera reunión de grupo realizada nos centramos en la asignación de tareas para la realización de la documentación a presentar para la primera entrega, así como también iniciar con la primera versión del Landing Page. Se repartió el trabajo y se designó responsabilidades a cada uno.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint n - 1 Retrospective Summary</strong></td>
+    <td>No existen resultados anteriores dado que es la primera reunión grupal.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Sprint n Goal</strong></td>
+    <td>Crear la landing page de nuestro sitio web, y la métrica de cumplimiento fue que la primera versión de dicha landing page esté lista antes de la fecha de presentación.</td>
+  </tr>
+  <tr>
+    <td><strong>Sprint n Velocity</strong></td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>11</td>
+  </tr>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de entrevistas
+### 5.3.2. Registro de entrevistas
+### 5.3.3. Evaluación según heurísticas
+
+## 5.4. Video about the product
