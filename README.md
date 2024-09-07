@@ -483,6 +483,7 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 
 ### 2.3.5. As-is Scenario Mapping
 Luis desea visitar un lugar turístico con un guía
+| ||||
 |------------ |------------|------------|------------|
 | Phases | Antes de contratar al guía| Durante la contratación del guía| Al terminar de contratar el guía|
 
