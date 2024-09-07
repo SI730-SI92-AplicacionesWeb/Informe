@@ -66,9 +66,19 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+![Web Applications Wireframes-1](https://media.discordapp.net/attachments/1203942564219330582/1281895483630944316/image.png?ex=66dd61b3&is=66dc1033&hm=fd83bc76fa4809c5c2fb1203a6ebd6859fb9745d4f91286367c003e900b9ad14&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-2](https://media.discordapp.net/attachments/1203942564219330582/1281895565466013696/image.png?ex=66dd61c7&is=66dc1047&hm=04d4c9ad1479617d787f73fc8f342c6052f65392809df805f03320c56edacf74&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-3](https://media.discordapp.net/attachments/1203942564219330582/1281895599838461965/image.png?ex=66dd61cf&is=66dc104f&hm=329c258a2fc94ab6a552882fa4a03d2b38d341796cec10b7dd5c60cb8d86e6cc&=&format=webp&quality=lossless&width=675&height=320)
 ### 4.4.2. Web Applications Wireflow Diagrams
+![Web Applications Wireflow Diagrams](https://media.discordapp.net/attachments/1203942564219330582/1281895045959651449/image.png?ex=66dd614b&is=66dc0fcb&hm=d6865f0503b5378183449a52357300d4dd4ed4d6985b516613ce072877bbe827&=&format=webp&quality=lossless&width=675&height=320)
 ### 4.4.3. Web Applications Mock-ups
+![Web Applications Wireframes-1](https://media.discordapp.net/attachments/1203942564219330582/1281899643428671529/image.png?ex=66dd6593&is=66dc1413&hm=b93dc51aae2114cb2672b8471d1d180c856db75c1a36962a2048a20c4cc46d72&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-2](https://media.discordapp.net/attachments/1203942564219330582/1281899768448155734/image.png?ex=66dd65b1&is=66dc1431&hm=aa2e1cb40a02cbee284bdfe262dd55b26f6914a73568e7ee5f31924f063a3a7b&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-3](https://media.discordapp.net/attachments/1203942564219330582/1281899818729345086/image.png?ex=66dd65bd&is=66dc143d&hm=4a60c0c303019859405f9e97684dbc07fa111f31b898ef2c81da59fa5d03ebb6&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-4](https://media.discordapp.net/attachments/1203942564219330582/1281900250210107422/image.png?ex=66dd6624&is=66dc14a4&hm=a2ae4b1f3646d3996b06fd0a2d34724ea519e8ddaf26d67eb80afb51514eb2a1&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-5](https://media.discordapp.net/attachments/1203942564219330582/1281900278005895210/image.png?ex=66dd662a&is=66dc14aa&hm=a400761a72b675858c849d0b6590570cb3bae5ac097eb6f811eb26d0e594c079&=&format=webp&quality=lossless&width=675&height=320)
 ### 4.4.4. Web Applications User Flow Diagrams
+![Web Applications Wireframes](https://media.discordapp.net/attachments/1203942564219330582/1281905637428691076/image.png?ex=66dd6b28&is=66dc19a8&hm=80e5895ba9038c84f496d96f7ed3bd646ccae052a818640dc34266ee633e7b17&=&format=webp&quality=lossless&width=675&height=268)
 ## 4.5. Web Applications Prototyping
 ![Imagen](https://media.discordapp.net/attachments/1281807145603436607/1281902673242755072/image.png?ex=66dd6865&is=66dc16e5&hm=408a3d8ebf0cf50dd8335f70557cdb97bade749b8103fa78fd4e05844395eff8&=&format=webp&quality=lossless)
 ## 4.6. Domain-Driven Software Architecture
