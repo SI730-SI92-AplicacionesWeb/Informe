@@ -437,7 +437,7 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 
 
 **Entrevista a Guia turistico**
-| Registro de entrevista 2 | | 
+| Registro de entrevista 1 | | 
 |------------ |------------|
 | Nombre:     | Aldo Pastrana |
 | Edad:       | 22 |
@@ -445,6 +445,16 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 | Captura |![Aldo](https://media.discordapp.net/attachments/1281807145603436607/1281873610105159680/image.png?ex=66dd4d54&is=66dbfbd4&hm=8e8879bb47bc17170ffdc23996ad85ac25a37d8f0842b524ee4b7537c70eecbd&=&format=webp&quality=lossless&width=842&height=473) |
 |Resumen: | Aldo nos menciona que ser guía turístico hoy en día es rentable si trabaja más de las horas promedio como guía, sin embargo antos no era así pues era más rentable. A pesar de eso cree que en pocos meses podrá ganar lo que solía ganar en los años pre-pandemicos debido a la difusión de su trabajo por las redes sociales. Cree firmemente en que le ayudaría mucho más si estuviera registrado dentro de una aplicación web|
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
+
+| Registro de entrevista 2 | | 
+|------------ |------------|
+| Nombre:     | Paul Gamero Lizana |
+| Edad:       | 21 |
+| Timing: | 4:29 |
+| Captura |![Paul](https://media.discordapp.net/attachments/1281807145603436607/1281842310711218277/image.png?ex=66dd302e&is=66dbdeae&hm=833bcd572aabb58ceb5147117454ab1e33f3a45b43d67b811db893665eedd6ee&=&format=webp&quality=lossless&width=842&height=473)|
+|Resumen: | El guía turístico, Paul, menciona que el trabajo de guía turístico ha cambiado mucho en los últimos años. Aunque en el pasado era fácil alcanzar buenos ingresos con pocas horas de trabajo, ahora debe esforzarse mucho más para mantenerse competitivo. Sin embargo, gracias a su enfoque en ofrecer experiencias únicas y personalizadas, ha logrado aumentar su clientela, sobre todo a través de recomendaciones en redes sociales. Paul está convencido de que si pudiera acceder a una plataforma web donde los turistas busquen guías de confianza, podría agilizar sus reservas y mejorar aún más sus ingresos. Está optimista de que en unos meses volverá a ganar lo que solía antes de la pandemia.|
+| Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
+
 
 
 ### 2.2.3 Análisis de entrevistas
