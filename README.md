@@ -156,14 +156,14 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 ** Descripción de la empresa:** 
 Motoratones es una Startup que busca facilitar el acceso a la rica cultura e historia de los lugares más impresionantes del mundo. En países como Perú, conocido por sus antiguas construcciones, exuberantes selvas y majestuosas montañas, es común olvidar que detrás de cada sitio histórico se esconden numerosas historias y curiosidades. Aunque los guías turísticos son quienes pueden compartir estos relatos, contactarlos de manera segura puede ser un reto debido a posibles fraudes. Nuestra propuesta es una solución tecnológica que conectará de forma directa y confiable a los turistas con guías turísticos, abordando esta problemática en el sector del turismo.
 
-** Visión:** 
+**Visión:** 
 Nuestra visión es convertirnos en líderes en la promoción del turismo vivencial en las áreas más remotas de los pueblos andinos, brindando a los viajeros aventureros un acceso seguro y sencillo a experiencias auténticas e inolvidables. Buscamos crear un vínculo entre las comunidades locales y los visitantes, fomentando el respeto por la cultura y el entorno natural, al tiempo que contribuimos al desarrollo sostenible de las regiones en las que operamos.
 
-** Misión:** 
+**Misión:** 
 Nuestra misión es crear conexiones significativas entre los viajeros y las culturas locales, fomentando experiencias turísticas auténticas que enriquezcan la vida de nuestros usuarios y beneficien a las comunidades anfitrionas. Nos dedicamos a brindar un servicio excepcional, impulsado por la innovación y la pasión por el turismo responsable.
 
 
-** Descripción del producto:** 
+**Descripción del producto:** 
 Tursitos es nuestra innovadora plataforma digital diseñada para conectar a viajeros aventureros con guías locales y proveedores de servicios turísticos en las áreas más remotas de los pueblos andinos. Centrada en el turismo vivencial, responde a la creciente demanda de experiencias auténticas y significativas en entornos naturales únicos. La plataforma ofrece una solución completa para quienes buscan explorar destinos fuera de lo común, facilitando la comunicación a través de mapas interactivos que muestran rutas, puntos de interés, horarios de salida y llegada, así como perfiles detallados de los guías, que incluyen su formación, licencias y datos personales, además de opiniones de usuarios anteriores sobre sus servicios.
 
 ### 1.1.2 Perfiles de integrantes del equipo 
@@ -204,15 +204,15 @@ Identificamos ciertos desafíos que podrían afectar nuestra app, como la dificu
 Para solucionar este problema, nuestra visión es desarrollar una plataforma digital que conecte a los viajeros aventureros con guías locales especializados en los pueblos andinos, ofreciendo acceso seguro y sencillo a experiencias turísticas auténticas y memorables. Nos hacemos preguntas clave como: ¿cómo podemos aumentar la confianza de nuestros clientes en nuestra plataforma? y ¿cuál es la importancia de una plataforma centrada en el turismo vivencial?
 
 #### 1.2.2.2 Lean UX Assumptions
-** Business outcomes** 
+**Business outcomes** 
 
 Nuestra iniciativa en el ámbito del turismo vivencial busca satisfacer la creciente demanda de experiencias auténticas y en contacto directo con la naturaleza en áreas remotas y de difícil acceso. Planeamos generar ingresos ofreciendo paquetes turísticos personalizados que incluyan actividades exclusivas y significativas en entornos naturales únicos.
 
-** User benefits** 
+**User benefits** 
 
 Nuestra plataforma brindará a los usuarios la oportunidad de sumergirse en la cultura local y en la belleza natural de lugares remotos a través de experiencias auténticas de turismo vivencial. Los usuarios podrán participar en actividades interactivas y enriquecedoras, como caminatas guiadas por expertos locales, talleres de artesanía tradicional y encuentros con comunidades indígenas.
 
-** User & Costumers** 
+**User & Costumers** 
 
 Nuestros usuarios principales serán viajeros aventureros y amantes de la naturaleza en busca de experiencias únicas y significativas durante sus viajes. Nuestros clientes serán guías locales y proveedores de servicios turísticos en áreas remotas, quienes se beneficiarán de alcanzar una audiencia más amplia y diversa a través de nuestra plataforma.
 
