@@ -17,20 +17,26 @@
 | **Feeling** | Se siente angustiado porque todavía no consigue clientes. <br><br> Siente temor debido a que es nuevo en la aplicación. | Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba. <br><br> Se siente aliviado al ver que un cliente solicita sus servicios. <br><br> Se siente feliz porque llegó a un acuerdo con el cliente. | Se siente aliviado al saber que tuvo su primer cliente. <br><br>  Se siente bien al poder dar sus servicios a un buen precio. <br><br> Se siente optimista sobre su calificación en la aplicación. |
 
 ## 3.2 User Stories
-| Epic/Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-| ------- | -----------------| ------------------|---------------------------|------|
-| Landing page para la aplicacion | Como turista/Guia turístico Quiero ingresar una landing page Para informarme sobre la aplicación y su equipo de desarrollo. | No corresponde | No corresponde |
-| Gestión de cuenta de un usuario | Como turista/Guia turistico Quiero crear, visualizar, eliminar y editar mi cuenta Para tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente. | No corresponde | No corresponde |
 
-
-| **Épica 1: Registrar usuario** | |
-| --- | --- |
-| **US01** - Registrar **turista** | **US02** - Autenticar cuenta de **turista** |
-| **US03** - Registrar **guía** | **US04** - Autenticar cuenta de **guía** |
-
-| **Épica 2: Loguear usuario** | |
-| --- | --- |
-| **US05** - Iniciar sesión | **US06** - Restablecer contraseña |
-
+<table>
+  <tr>
+    <td colspan="2"><strong>Épica 1: Registrar usuario</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US01</strong> - Registrar <strong>turista</strong></td>
+    <td><strong>US02</strong> - Autenticar cuenta de <strong>turista</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US03</strong> - Registrar <strong>guía</strong></td>
+    <td><strong>US04</strong> - Autenticar cuenta de <strong>guía</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Épica 2: Loguear usuario</strong></td>
+  </tr>
+  <tr>
+    <td><strong>US05</strong> - Iniciar sesión</td>
+    <td><strong>US06</strong> - Restablecer contraseña</td>
+  </tr>
+</table>
 
 
