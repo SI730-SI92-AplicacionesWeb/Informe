@@ -47,6 +47,13 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
 <br>
+# Student Outcome
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+|        |        |        |
+|        |        |        |
+|        |        |        |
+|        |        |        |
 
 # Contenido
 ## Tabla de contenidos
@@ -412,20 +419,20 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 | Registro de entrevista 1 | | 
 |------------ |------------|
 | Nombre:     |  Renzo Baldeon     |
-| Edad:       | 24 |
+| Edad:       | 25 |
 | Timing: | 3:54  |
 | Captura | ![Renzo](https://media.discordapp.net/attachments/1281807145603436607/1281846380435996702/image.png?ex=66dd33f8&is=66dbe278&hm=5bf7d6c4fa337c33a7f046b8985b83a0aacfac6376dac57feb21003d1fec618e&=&format=webp&quality=lossless&width=550&height=258) |
-|Resumen: | |
+|Resumen: | Renzo es un estudiante de la carrera de Arquitectura. El comenta que le gusta salir de viaje auqnue lo hacer no muy frecuente. Menciona que los guias turisticos ayudan a mostrar una nueva perspectiva en los viajes. Relata que le ayudaria mucho tener una ayudar para encontar un guia turistico para tener obciones y visualizar precios, ademas de tener una seguridad por la eleccion del guia. |
 | Link | https://drive.google.com/file/d/1fx0a_I-qtGEThfF_DbfbCSY0m3zcn03b/view?usp=sharing |
 
 | Registro de entrevista 2 | | 
 |------------ |------------|
-| Nombre:     |       |
-| Edad:       | |
-| Timing: |  |
-| Captura | |
+| Nombre:     | Lourdes Carnero |
+| Edad:       | 23 |
+| Timing: | 7:32 |
+| Captura |![Lourdes](https://media.discordapp.net/attachments/1281807145603436607/1281854431851319426/image.png?ex=66dd3b78&is=66dbe9f8&hm=4d8a0347b81e2cd0ff2d76a8e15e2222ecacf2116159d713e4f36829daeb2133&=&format=webp&quality=lossless&width=536&height=559) |
 |Resumen: | |
-| Link |  |
+| Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
 
 **Entrevista a Guia turistico**
