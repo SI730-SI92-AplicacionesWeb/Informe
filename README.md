@@ -79,12 +79,12 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 |--------------------|---------------------------------------------|------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|-------------------------|------------|
 | **User Story ID**  | **Title**                                   | **Work-Item ID** | **Title**                                  | **Description**                                                                                   | **Estimation (Hours)** | **Assigned To**         | **Status** |
 | US26               | Ver detalles generales del servicio         | T001             | Implementar el header, main y footer       | El desarrollador implementa los componentes señalados del landing page                             | 3 Horas                | Rafael Pacheco     | Done       |
-|                    |                                             | T002             | Realizar una limpieza de código            | Corrección de errores y modificación de textos                                                     | 0.5 Horas              | Max Paitan               | Done       |
-| US27               | Ver misión y visión del proyecto            | T001             | Implementar la opción de misión y visión   | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 Horas                | Alexander Cantoral      | Done       |
-| US28               | Revisar los servicios ofrecidos             | T001             | Implementar la opción de servicios         | Implementar los componentes y lógica para el botón atajo de servicio en el header                   | 1 Hora                 | Alexander Cantoral      | Done       |
-|                    |                                             | T002             | Implementar los servicios                  | Implementación de los componentes y vista de servicios en el main                                  | 1 Hora                 | Alexander Cantoral      | Done       |
-| US29               | Obtener contacto con los administradores    | T001             | Implementar la opción de contacto          | El desarrollador implementa la opción-atajo de contacto del landing page en el header               | 0.5 Horas              | Alexander Cantoral      | Done       |
-|                    |                                             | T002             | Implementar sección de contacto            | El desarrollador implementa la sección de contacto del landing page                                 | 1 Hora                 | Alexander Cantoral      | Done       |
+|                    |                                             | T002             | Realizar una limpieza de código            | Corrección de errores y modificación de textos                                                     | 0.5 Horas              | Carlos DE La Cruz              | Done       |
+| US27               | Ver misión y visión del proyecto            | T001             | Implementar la opción de misión y visión   | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 Horas                | Alexander Justo     | Done       |
+| US28               | Revisar los servicios ofrecidos             | T001             | Implementar la opción de servicios         | Implementar los componentes y lógica para el botón atajo de servicio en el header                   | 1 Hora                 | Carlos De La Cruz     | Done       |
+|                    |                                             | T002             | Implementar los servicios                  | Implementación de los componentes y vista de servicios en el main                                  | 1 Hora                 | Erick Vasquez    | Done       |
+| US29               | Obtener contacto con los administradores    | T001             | Implementar la opción de contacto          | El desarrollador implementa la opción-atajo de contacto del landing page en el header               | 0.5 Horas              | Alexander Justo     | Done       |
+|                    |                                             | T002             | Implementar sección de contacto            | El desarrollador implementa la sección de contacto del landing page                                 | 1 Hora                 | Erick Vasquez      | Done       |
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -92,8 +92,18 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Al ser el sprint 1, solo se estableció en la documentación las épicas e
+historias de usuario a trabajar (con los escenarios). Aún no se ha
+implementado el testing de las historias de usuario, las cuales se
+implementarán en Gerkhin.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se ha implementado la primera versión del Landing Page, con partes
+fundamentales como inicio, servicios y contacto:
+
+https://si730-si92-aplicacionesweb.github.io/LandingPague.github.io/#
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 #### 5.2.1.8. Team Collaboration Insights during Sprint
