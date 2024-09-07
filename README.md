@@ -477,9 +477,15 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 
 ### 2.2.3 Análisis de entrevistas
 
-**Segmento Objetivo: Interesados**
+**Segmento Objetivo: Turistas**
+
+Algunos estudiantes y viajeros frecuentes mencionan que, aunque no viajan con mucha frecuencia o lo hacen dentro del país, consideran que los guías turísticos son clave para ofrecer una nueva perspectiva en los viajes, ayudando a culturizarse y a obtener una visión más profunda de los lugares que visitan. También destacan que sería muy útil contar con una aplicación que les permita buscar guías turísticos, ver precios y opciones, y asegurar que los guías sean confiables y legales. Además, la posibilidad de ver rutas, horarios y actividades facilitaría la planificación del viaje y brindaría mayor seguridad al elegir un guía.
 
 **Segmento Objetivo: Guia turistico**
+
+La pandemia ha transformado el trabajo de los guías turísticos, que ahora enfrentan una mayor competencia y una disminución en la rentabilidad en comparación con el pasado. Antes era más fácil obtener buenos ingresos con menos horas de trabajo, pero hoy se requiere un esfuerzo considerable para mantenerse competitivo. A pesar de estos desafíos, algunos guías han aumentado su clientela ofreciendo experiencias únicas y personalizadas, beneficiándose de las recomendaciones en redes sociales.
+En este contexto, hay una percepción generalizada de que una aplicación web que facilite la conexión entre turistas y guías podría ser altamente beneficiosa. Para los turistas, ofrecería una manera eficiente de encontrar guías locales de confianza y explorar los destinos en profundidad. Para los guías, la plataforma permitiría ampliar su red de clientes, agilizar las reservas y mejorar sus ingresos. Esta solución digital podría ayudar a los guías a recuperar los niveles de ganancias pre-pandemia y optimizar su negocio en el entorno actual.
+
 
 ## 2.3 Needfinding 
 
