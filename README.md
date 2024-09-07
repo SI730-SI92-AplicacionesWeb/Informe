@@ -416,7 +416,7 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 ### 2.2.2 Registro de entrevistas 
 
 ***Enlace Entrevistas:*** https://drive.google.com/drive/folders/11h-TV78mcy4c446guzOKuS0bnOemxchT?usp=sharing
-**Entrevista a Interesado**
+**Entrevista a Turista**
 | Registro de entrevista 1 | | 
 |------------ |------------|
 | Nombre:     |  Renzo Baldeon     |
@@ -432,11 +432,20 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 | Edad:       | 23 |
 | Timing: | 7:32 |
 | Captura |![Lourdes](https://media.discordapp.net/attachments/1281807145603436607/1281854431851319426/image.png?ex=66dd3b78&is=66dbe9f8&hm=4d8a0347b81e2cd0ff2d76a8e15e2222ecacf2116159d713e4f36829daeb2133&=&format=webp&quality=lossless&width=536&height=559) |
-|Resumen: | Lourdes es Ingeniera alienticia. Ella menciona que suele viajar mucho y que suele usar aplicativos para facilitarle el viaje. Ademas, resalata que los guias turisticos los suele tomar en lugares desconocidos sin embargo no tiene la seguridad que estos sean completamente legales. Por ultimo, Ella dice que le gustaia una aplciativo donde podria encontar guias para poder ver sus rutas, horarios y actividades que realizaran. |
+|Resumen: | Lourdes que estudia  Ingeniera alimenticia. Ella menciona que suele viajar mucho y que suele usar aplicativos para facilitarle el viaje. Ademas, resalata que los guias turisticos los suele tomar en lugares desconocidos sin embargo no tiene la seguridad que estos sean completamente legales. Por ultimo, Ella dice que le gustaia una aplciativo donde podria encontar guias para poder ver sus rutas, horarios y actividades que realizaran. |
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
 
 **Entrevista a Guia turistico**
+| Registro de entrevista 2 | | 
+|------------ |------------|
+| Nombre:     | Aldo Pastrana |
+| Edad:       | 22 |
+| Timing: | 7:02 |
+| Captura |![Aldo](https://media.discordapp.net/attachments/1281807145603436607/1281873610105159680/image.png?ex=66dd4d54&is=66dbfbd4&hm=8e8879bb47bc17170ffdc23996ad85ac25a37d8f0842b524ee4b7537c70eecbd&=&format=webp&quality=lossless&width=842&height=473) |
+|Resumen: | Aldo nos menciona que ser guía turístico hoy en día es rentable si trabaja más de las horas promedio como guía, sin embargo antos no era así pues era más rentable. A pesar de eso cree que en pocos meses podrá ganar lo que solía ganar en los años pre-pandemicos debido a la difusión de su trabajo por las redes sociales |
+| Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
+
 
 ### 2.2.3 Análisis de entrevistas
 
