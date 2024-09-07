@@ -155,6 +155,35 @@ ESCENARIO: Ver pantalla principal del landing page<br> Dado que el visitante qui
 ## 3.4 Product Backlog
 
 Los story points se colocarán según el esfuerzo que se necesita para realizar las acciones.
+| #Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|-------------|---------------------------|
+| 1      | US01          | Usuario quiere registrarse en la aplicación. | Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles | 3 |
+| 2      | US03          | Registrar guía | Como guía, quiero poder registrarme en la plataforma proporcionando la información necesaria para crear un perfil completo y ofrecer mis servicios como guía turístico | 3 |
+| 3      | US02          | Autenticar cuenta de turista | Como turista, quiero poder autenticar mi cuenta utilizando mis credenciales para acceder a mi perfil y realizar acciones en la plataforma web de manera segura | 2 |
+| 4      | US04          | Autenticar cuenta de guía | Como guía, quiero poder autenticar mi cuenta utilizando mis credenciales para acceder a mi perfil y gestionar mi información como guía turístico. | 2 |
+| 5      | US05          | Iniciar sesión | Como guía/turista, quiero poder iniciar sesión en la plataforma con mis credenciales para acceder a mi cuenta y utilizar todas las funcionalidades disponibles. | 3 |
+| 6      | US06          | Restablecer contraseña | Como guía/turista, quiero tener la opción de restablecer mi contraseña para poder ingresar a mi cuenta cuando tenga problemas. | 5 |
+| 7      | US07          | Gestionar certificación de guía | Como guía, quiero poder gestionar mi certificación proporcionando la documentación necesaria y siguiendo los procesos establecidos para validar mi estatus como guía oficial | 3 |
+| 8      | US08          | Configurar datos de usuario | Como guía/turista, quiero poder configurar y actualizar mi información personal en mi perfil para mantenerla actualizada y precisa | 3 |
+| 9      | US09          | Eliminar cuenta | Como guía/turista, quiero tener la opción de eliminar permanentemente mi cuenta de la plataforma para cuando deje de usar la plataforma web | 5 |
+| 10     | US10          | Cerrar sesión | Como guía/turista, quiero poder cerrar sesión en la plataforma para proteger mi privacidad y seguridad cuando no esté utilizando activamente la plataforma web | 2 |
+| 11     | US11          | Buscar guía | Como turista, quiero poder buscar guías turísticos utilizando diferentes criterios como destino, idioma y especialización para encontrar el guía adecuado para mis necesidades de viaje | 5 |
+| 12     | US12          | Filtrar búsqueda de guías | Como turista, quiero poder aplicar filtros avanzados a mis búsquedas de guías turísticos, como la disponibilidad, las valoraciones y los precios, para refinar los resultados según mis preferencias | 8 |
+| 13     | US13          | Ver información personal del guía | Como turista, quiero poder ver la información detallada y el perfil completo de un guía turístico, incluyendo su experiencia, especialidades y valoraciones de otros turistas | 1 |
+| 14     | US14          | Administrar favoritos y listas de deseos de guías | Como turista, quiero poder guardar guías turísticos en una lista de favoritos para poder acceder rápidamente a ellos y planificar futuros viajes | 2 |
+| 15     | US15          | Contratar servicio del guía | Como turista, quiero poder contratar los servicios de un guía turístico directamente desde la plataforma, seleccionando el tour deseado y realizando el pago, para no perder tiempo | 3 |
+| 16     | US16          | Reservar servicio del guía | Como turista, quiero poder reservar un servicio de guía turístico en una fecha y hora específicas, asegurando así mi disponibilidad y la del guía para la experiencia de viaje | 5 |
+| 17     | US17          | Pagar servicio | Como turista, quiero poder realizar el pago por los servicios del guía turístico de manera segura y conveniente a través de la plataforma, utilizando métodos de pago confiables, para no tener problemas de robos | 5 |
+| 18     | US18          | Generar recibo | Como turista, quiero recibir un recibo detallado por los servicios contratados con el guía turístico, incluyendo información sobre el tour, las fechas y el costo total, para tener pruebas del pago hecho ante posibles problemas | 8 |
+| 19     | US19          | Revisar valoraciones y reseñas sobre guías | Como turista, quiero poder leer las valoraciones y reseñas dejadas por otros turistas sobre los guías turísticos, para tomar decisiones informadas al elegir un guía para mi viaje | 2 |
+| 20     | US20          | Generar valoraciones y reseñas sobre guías | Como turista, quiero tener la opción de dejar una valoración y reseña sobre mi experiencia con un guía turístico después de completar un tour, para compartir mi opinión y ayudar a otros turistas en su elección | 3 |
+| 21     | US21          | Compartir experiencias en redes sociales | Como turista, quiero tener la opción de compartir mis experiencias de viaje y tours con un guía turístico en mis redes sociales directamente desde la plataforma para que mis conocidos vean el servicio brindado | 3 |
+| 22     | US22          | Gestionar servicio de turista | Como guía, quiero tener la capacidad de gestionar las reservas y solicitudes de servicios de turistas, para garantizar una planificación y ejecución eficientes de los tours | 5 |
+| 23     | US23          | Ver métricas de rendimiento | Como guía, quiero tener acceso a métricas de rendimiento, como el número de tours realizados, la satisfacción del cliente y las valoraciones recibidas, para evaluar y mejorar mi desempeño como guía turístico | 5 |
+| 24     | US24          | Ver historial de turistas atendidos | Como guía, quiero tener acceso a un historial de turistas que he atendido en el pasado, incluyendo sus datos de contacto y detalles de los tours realizados, para mantener un registro organizado y poder brindar un mejor servicio en futuras interacciones | 5 |
+| 25     | US25          | Personalizar ofertas | Como guía, quiero tener la capacidad de personalizar las ofertas y los itinerarios de los tours según las preferencias y necesidades específicas de los turistas, para ofrecer experiencias de viaje más personalizadas y memorables | 3 |
+| 26     | US26          | Ver detalles generales del servicio | Como visitante, quiero poder ver detalles generales del landing page para tener un panorama general de lo ofrecido en la plataforma web. | 1 |
+| 27     | US27          | Ver misión y visión del proyecto | Como visitante, quiero poder ver la misión y visión del proyecto, para poder revisar los valores de la empresa y poder usar sus servicios | 2 |
 
 
 
