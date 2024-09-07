@@ -435,6 +435,15 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 |Resumen: | Lourdes que estudia  Ingeniera alimenticia. Ella menciona que suele viajar mucho y que suele usar aplicativos para facilitarle el viaje. Ademas, resalata que los guias turisticos los suele tomar en lugares desconocidos sin embargo no tiene la seguridad que estos sean completamente legales. Por ultimo, Ella dice que le gustaia una aplciativo donde podria encontar guias para poder ver sus rutas, horarios y actividades que realizaran. |
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
+| Registro de entrevista 3 | | 
+|------------ |------------|
+| Nombre:     | Paola Vasquez |
+| Edad:       | 27 |
+| Timing: | 4:47 |
+| Captura |![Paola](https://media.discordapp.net/attachments/1281807145603436607/1281883395093299253/image.png?ex=66dd5671&is=66dc04f1&hm=771a37ded0b5147a3b209b1e7518bd6184400ecc94d9556e218a690f83b0871a&=&format=webp&quality=lossless&width=842&height=473) |
+|Resumen: | Paola nos comenta que viaja anualmente dentro del país, y que justamente por este motivo considera que tener un guía turístico es importante para que te pueda culturizar con el lugar y con las historias detrás de ese lugar, también cree que el tener una aplicación que la ayude a contactar con un guía sería de mucha ayuda para los turistas en general. |
+| Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
+
 
 **Entrevista a Guia turistico**
 | Registro de entrevista 1 | | 
