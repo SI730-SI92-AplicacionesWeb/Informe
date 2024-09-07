@@ -92,10 +92,26 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Al ser el sprint 1, solo se estableció en la documentación las épicas e
-historias de usuario a trabajar (con los escenarios). Aún no se ha
-implementado el testing de las historias de usuario, las cuales se
-implementarán en Gerkhin.
+En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
+
+1. Uso de Live Server de Microsoft Visual Studio Code
+
+Propósito:
+
+Live Server se implementó para facilitar el desarrollo y la prueba de la landing page de manera local.
+Descripción:
+
+Esta herramienta permitió la visualización dinámica de la landing page en el navegador web, lo que agilizó el proceso de desarrollo al mostrar los cambios en tiempo real sin necesidad de recargar manualmente la página.
+
+2. Aprovechamiento de las Propiedades del Navegador para Mejorar el Responsive
+
+Propósito:
+
+Se aprovecharon las características específicas del navegador para mejorar la compatibilidad con CSS Grid y el diseño responsivo.
+Descripción:
+
+Se exploraron las capacidades de inspección de elementos del navegador para ajustar y optimizar el diseño de la landing page, especialmente en lo que respecta al uso de CSS Grid. Además, se utilizaron las herramientas de depuración del navegador para identificar y corregir cualquier problema de diseño responsivo.
+Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -104,8 +120,29 @@ fundamentales como inicio, servicios y contacto:
 
 https://si730-si92-aplicacionesweb.github.io/LandingPague.github.io/#
 
+![img Landing](https://media.discordapp.net/attachments/1281807145603436607/1281913925969117275/image.png?ex=66dd72e0&is=66dc2160&hm=78f7d956b20e76b9048034af5ed5ff997311178f23e46b8d8f52995db6a28124&=&format=webp&quality=lossless&width=550&height=241)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Aún no se ha implementado el uso de Endpoints, y no se desplegó ningún web service en este sprint.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla.
+
+Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
+
+![Fo](https://media.discordapp.net/attachments/1281807145603436607/1281915702860845116/image.png?ex=66dd7488&is=66dc2308&hm=f71af5dc17847e16e9d1e641fb987938277d00ed9d5831b92a6c72741b17660a&=&format=webp&quality=lossless&width=1025&height=450)
+
+Seleccionamos la rama main para ejecutar el deploy y damos a guardar
+
+![Fotex](https://media.discordapp.net/attachments/1281807145603436607/1281915848210124892/image.png?ex=66dd74ab&is=66dc232b&hm=741911f1876ce64eb5afad2dbe347239b4f6e39c359da1ff605e3002d3e91e39&=&format=webp&quality=lossless&width=1025&height=447) 
+
+Ingresamos el dominio de la landing page
+
+![Foto](https://media.discordapp.net/attachments/1281807145603436607/1281915924903100498/image.png?ex=66dd74bd&is=66dc233d&hm=d9ca65b358daf1b94c240710d7c09c34b022417630e245efa7efcb2bf8082a20&=&format=webp&quality=lossless&width=550&height=242)
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
