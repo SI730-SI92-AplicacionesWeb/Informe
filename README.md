@@ -104,10 +104,7 @@
     <td><strong>US26</strong> – Ver detalles generales del servicio</td>
     <td><strong>US27</strong> - Actualizar producto</td>
   </tr>
-  <tr>
-    <td><strong>US28</strong> - Buscar producto</td>
-    <td><strong>US29</strong> - Generar historial de inventario</td>
-  </tr>
+  
 </table>
 
 | Epic/Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
