@@ -464,6 +464,15 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 |Resumen: | El guía turístico, Paul, menciona que el trabajo de guía turístico ha cambiado mucho en los últimos años. Aunque en el pasado era fácil alcanzar buenos ingresos con pocas horas de trabajo, ahora debe esforzarse mucho más para mantenerse competitivo. Sin embargo, gracias a su enfoque en ofrecer experiencias únicas y personalizadas, ha logrado aumentar su clientela, sobre todo a través de recomendaciones en redes sociales. Paul está convencido de que si pudiera acceder a una plataforma web donde los turistas busquen guías de confianza, podría agilizar sus reservas y mejorar aún más sus ingresos. Está optimista de que en unos meses volverá a ganar lo que solía antes de la pandemia.|
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
+| Registro de entrevista 3 | | 
+|------------ |------------|
+| Nombre:     | Xiomara Rodríguez Vergaray |
+| Edad:       | 22 |
+| Timing: | 4:06 |
+| Captura |![Xiomara](https://media.discordapp.net/attachments/1281807145603436607/1281886690322944061/image.png?ex=66dd5983&is=66dc0803&hm=21ff8a3b3869bdb4734d41510c8df9e6228ac6d8ea7dc59f02da011860bf347f&=&format=webp&quality=lossless&width=550&height=309) |
+|Resumen: | Xiomara comparte que, cada año, trata de explorar diferentes rincones de su país, lo que la ha convertido en una amante del turismo local. Para ella, la mejor manera de conocer realmente un lugar es a través de las historias y la cultura que los guías locales tienen para ofrecer. Comenta que, en varias ocasiones, ha contratado guías turísticos, y siempre ha quedado sorprendida por los detalles que no habría descubierto por sí sola. Además, considera que sería increíble contar con una aplicación que facilitara la conexión entre turistas y guías, ya que cree que no solo beneficiaría a personas como ella que buscan conocer a fondo los destinos, sino también a los guías que podrían ampliar su red de clientes y mostrar su experiencia de manera más eficiente. |
+| Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
+
 
 
 ### 2.2.3 Análisis de entrevistas
