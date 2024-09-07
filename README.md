@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f4c0e7d-5659-4609-bb15-90b5204b86cb)# Universidad Peruana de Ciencias Aplicadas
+# Universidad Peruana de Ciencias Aplicadas
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
