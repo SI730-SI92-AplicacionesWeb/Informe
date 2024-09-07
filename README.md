@@ -432,7 +432,7 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 | Edad:       | 23 |
 | Timing: | 7:32 |
 | Captura |![Lourdes](https://media.discordapp.net/attachments/1281807145603436607/1281854431851319426/image.png?ex=66dd3b78&is=66dbe9f8&hm=4d8a0347b81e2cd0ff2d76a8e15e2222ecacf2116159d713e4f36829daeb2133&=&format=webp&quality=lossless&width=536&height=559) |
-|Resumen: | |
+|Resumen: | Lourdes es Ingeniera alienticia. Ella menciona que suele viajar mucho y que suele usar aplicativos para facilitarle el viaje. Ademas, resalata que los guias turisticos los suele tomar en lugares desconocidos sin embargo no tiene la seguridad que estos sean completamente legales. Por ultimo, Ella dice que le gustaia una aplciativo donde podria encontar guias para poder ver sus rutas, horarios y actividades que realizaran. |
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
 
