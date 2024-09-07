@@ -736,6 +736,7 @@ Luis desea visitar un lugar turístico con un guía
 ## 3.3 Impact Mapping
 
 **Segmento Objetivo: Turista**
+
 ![Impact Turista](https://media.discordapp.net/attachments/1281807145603436607/1281867912843362335/image.png?ex=66dd4806&is=66dbf686&hm=9219376d804293eb7af47042d3df0dadc58e4700f5fa9ff6a150889b2a92e777&=&format=webp&quality=lossless)
 
 **Segmento Objetivo: Guía Turístico**
