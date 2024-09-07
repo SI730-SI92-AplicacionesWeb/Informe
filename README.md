@@ -148,7 +148,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 Nuestros competidores son empresas dentro del sector turístico, específicamente aquellas que se dedican a conectar a los turistas con guías turísticos.
 
 A continuación, mencionaremos algunos de los competidores de nuestro rubro:
-Get Your Guide: https://www.getyourguide.es/
+**Get Your Guide: https://www.getyourguide.es/**
+<img scr ="assets/photos/referencia1.png">
+**Tours By Locals: https://www.toursbylocals.com/**
+<img scr ="assets/photos/referencia2.png">
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
