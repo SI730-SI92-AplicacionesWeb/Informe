@@ -151,4 +151,12 @@ Dado que el primer sprint se centra en la documentación y la creación del land
 
 ![Photo](https://media.discordapp.net/attachments/1281807145603436607/1281917128412364881/image.png?ex=66dd75dc&is=66dc245c&hm=7877deb741e1957a1b6e0704e357475f5bd913497a3e7808e13e70407f8d659e&=&format=webp&quality=lossless&width=1002&height=473)
 
+**Conclusiones:**
+
+●	Tursito podría posicionarse como una aplicación para un uso poco explorado y quizás exclusivo para el Perú.
+
+●	La Landing page ayudará a captar la atención de los futuros usuarios de Tursito .Siendo una aplicación muy amigable e intuitiva para el usuario
+
+●	Reconocer de manera correcta los segmentos y el uso del método lean ux ayudó para que se elaboré un correcto reporte para la futura aplicación.
+
 
