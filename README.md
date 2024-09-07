@@ -70,6 +70,7 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+![Imagen](https://media.discordapp.net/attachments/1281807145603436607/1281902673242755072/image.png?ex=66dd6865&is=66dc16e5&hm=408a3d8ebf0cf50dd8335f70557cdb97bade749b8103fa78fd4e05844395eff8&=&format=webp&quality=lossless)
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ![Software Architecture Context Diagram](https://media.discordapp.net/attachments/1203942564219330582/1281831317452886106/Imagen1.png?ex=66dd25f1&is=66dbd471&hm=4f4a285b8cf76f5fb5000c01424855f1e23ec50f21af35de7184da54d0156d5a&=&format=webp&quality=lossless)
