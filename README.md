@@ -90,6 +90,7 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 ![Software Architecture Components Diagrams](https://media.discordapp.net/attachments/1203942564219330582/1281831317146832980/Imagen3.png?ex=66dd25f1&is=66dbd471&hm=1b813163aca58fb644e467658dc5bc0c79ffc0df902ee4845f8a9fa74f47dd14&=&format=webp&quality=lossless)
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+![Imagen](https://media.discordapp.net/attachments/1281807145603436607/1281915973808554097/image.png?ex=66dd74c9&is=66dc2349&hm=77d218c019319d649fabc3d3c6149ed4018eb6e59b85c17ac4437ee3ff8db10d&=&format=webp&quality=lossless&width=1200&height=559)
 ### 4.7.2. Class Dictionary
 - Evento: Es el elemento del historial del usuario, la informacion de cada tour que pago y las caracteristicas del servicio con su fecha.
 - Búsqueda: En esta clase se encuentran las funciones para buscar y mostrar los tours disponibles, basados en los parametros del cliente.
