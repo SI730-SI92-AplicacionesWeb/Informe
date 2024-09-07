@@ -301,7 +301,7 @@ Creación de perfil:
 Creemos que al ofrecer una página intuitiva que permita a los guías crear un perfil donde puedan describirse, detallar su recorrido y añadir información sobre servicios adicionales, lograremos atraer a más guías por la facilidad de promocionarse. Sabremos que hemos tenido éxito cuando el número de guías que ofrezcan sus servicios aumente en un 50% en comparación con los primeros dos meses.
 
 #### 1.2.2.4. Lean UX Canvas
-<img src="">
+<img src="assets/photos/canvas.png">
 
 ## 1.3 Segmentos Objetivo
 Segmento Objetivo #1: **Viajeros (18+ años)**
