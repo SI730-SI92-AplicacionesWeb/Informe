@@ -322,6 +322,48 @@ A continuación, mencionaremos algunos de los competidores de nuestro rubro:
 <img scr ="assets/photos/referencia1.png">
 **Tours By Locals: https://www.toursbylocals.com/**
 <img scr ="assets/photos/referencia2.png">
+**Viator: https://www.viator.com/es-PE/**
+![referencias3](https://media.discordapp.net/attachments/1281807145603436607/1281811656690892892/Captura_de_pantalla_2024-09-06_220130.png?ex=66dd13a1&is=66dbc221&hm=19fd0ed0af86558569bb683f41b963bd917975692bb33dacd002b3a39925949b&=&format=webp&quality=lossless&width=550&height=239)
+
+### 2.1.1 Análisis competitivo
+
+A continuación, se realiza una descripción breve de nuestros competidores.
+**Get Your Guide:**
+GetYourGuide es una plataforma en línea que facilita la reserva de actividades turísticas y experiencias en todo el mundo. Fundada en 2009, conecta a los viajeros con proveedores locales que ofrecen tours, excursiones, entradas a atracciones, actividades al aire libre, entre otros. Los usuarios pueden buscar y reservar una amplia gama de experiencias, que van desde visitas guiadas a sitios históricos hasta actividades de aventura y gastronomía. Operando en varios idiomas y con opciones de reserva flexibles, GetYourGuide se ha convertido en una herramienta popular para quienes buscan explorar nuevos destinos y disfrutar de experiencias únicas.
+**Tours By Locals:**
+ToursByLocals es una plataforma en línea que conecta a viajeros con guías turísticos locales en todo el mundo. Fundada en 2008, ofrece una variedad de tours personalizados y experiencias auténticas, diseñadas y guiadas por expertos locales. A través de la plataforma, los usuarios pueden reservar tours privados en distintos destinos, lo que les permite explorar lugares de interés de una manera más personalizada e íntima. Los guías locales de ToursByLocals aportan conocimientos especializados, historias del lugar y recomendaciones personalizadas para mejorar la experiencia de viaje. Además, la plataforma ofrece opciones flexibles de reserva y atención al cliente para asegurar una experiencia fluida para los viajeros.
+
+**Viator:**
+Viator, parte del grupo Booking Holdings, es una plataforma en línea especializada en la reserva de actividades turísticas, excursiones y experiencias en destinos de todo el mundo. Desde su fundación en 1999, Viator ha emergido como una de las principales opciones para reservar tours y actividades, tanto populares como exclusivas, en diversos destinos turísticos. La plataforma ofrece una amplia gama de opciones, desde tours guiados y entradas a atracciones, hasta excursiones de un día, paseos en barco, actividades al aire libre y experiencias gastronómicas. Viator conecta a los viajeros con proveedores locales, ofreciendo una gran variedad de opciones y una experiencia de reserva segura y conveniente. Los usuarios pueden explorar las alternativas disponibles, leer reseñas de otros viajeros y reservar fácilmente las actividades para su viaje.
+
+**Competitive Analysis Landscape**
+¿Por qué llevar a cabo este análisis?
+Realizamos este análisis para poder descubrir o identificar espacios de interés en un mercado específico –en nuestro caso, la búsqueda de guías turísticos en cualquier destino–, para realizar una toma de decisiones correcta respecto de las diferencias existentes entre las empresas, gracias al desarrollo de estrategias que beneficien a nuestro proyecto.
+
+|              |              | Nombre empresa  | Get Your Guide  |Tours By Locals | Viator|
+|--------------|--------------|--------------|--------------|--------------|--------------|
+|**Perfil**|**Overview**|Empresa dedicada a conectar turistas con guías locales expertos, en todas las ciudades del Perú|Empresa dedicada a ofrecer reservas de actividades turísticas en el mundo, incluyendo guías turísticos expertos|Empresa dedicada a conectar turistas con guías locales expertos, reservando tours privados en distintas ciudades del mundo|Empresa dedicada a ofrecer reservas de actividades turísticas en el mundo, incluyendo guías turísticos expertos|
+|**Perfil**|**Ventaja Competitiva¿Qué valor ofrece a los clientes?**|Centrados en la búsqueda de guías turísticos. Verificación de guías turísticos para evitar problemas.|Mayor cantidad de usuarios que usan su plataforma|Gran cantidad de personas que usan su producto, además de centrarse solo en guías turísticos|Mayor cantidad de usuarios que usan su plataforma|
+|**Perfil de marketing**|**Mercado Objetivo**|Viajeros y guías turísticos**|Viajeros y empresas pertenecientes al rubro turístico|Viajeros y guías turísticos|Viajeros y empresas pertenecientes al rubro turístico|
+|**Perfil de marketing**|**Estrategias de marketing**|Marketing concentrado (Grupo específico), marketing digital|Penetración de mercado, marketing digital|Penetración de mercado, marketing digital|Penetración de mercado, marketing digital|
+|**Perfil de producto**|**Productos & Servicios**|Herramientas digitales|Herramientas digitales|Herramientas digitales|Herramientas digitales|
+|**Perfil de producto**|**Precios & Costos**|Cobro periódico por uso y publicidad.|Cobro por plan/paquete adquirido (según destino turístico)|Cobro por guía contratado (tarifa propia).|Cobro por plan/paquete adquirido (según destino turístico)|
+|**Perfil de producto**|**Canales de distribución (Web y/o móvil)**|Página web|Página web|Página web|Página web|
+|**Análisis SWOT**|**Fortalezas**|Facilidad de uso de la aplicación. Función de registro de guías turísticos. Verificación de guías turísticos. Conexión directa entre viajeros y guías turísticos experimentados. Uso de herramientas digitales adicionales para una mejor experiencia de usuario.|Amplia variedad de actividades turísticas. Plataforma fácil de usar. Fuerte presencia en el mercado turístico. Reseñas y opiniones de clientes para la toma de decisiones de otros clientes. |Amplia variedad de actividades turísticas. Conexión directa entre viajeros y guías turísticos experimentados. Fomento del turismo sostenible y responsable.Flexibilidad en la oferta de tours| Alcance global gracias al grupo Booking Holdings. Amplia selección de actividades turísticas. Colaboración con proveedores locales. Plataforma fácil de usar. Opciones de reservas flexibles|
+|**Análisis SWOT**|**Debilidades**|Empresa nueva. Dependencia de la cantidad de usuarios. Falta de colaboradores. Competencia en el mercado.|Gran competencia en el mercado. Posible dependencia de socios y proveedores. Falta de especialización. Falta de ofertas en ciudades medianas/pequeñas|Limitaciones geográficas en comparación con otras plataformas. Menor visibilidad en comparación con otras plataformas. Dependencia de la reputación generada a los guías turísticos|Falta de especialización. Gran competencia en el mercado. Posible saturación del mercado en destinos turísticos populares. Posible dependencia de socios y proveedores|
+|**Análisis SWOT**|**Oportunidades**|Expansión al mercado peruano. Puede sobresalir gracias al objetivo específico de conseguir guías turísticos. Colaboraciones con empresas relacionadas al sector turismo|Expansión al mercado peruano. Desarrollo de alianzas estratégicas con empresas peruanas. Integración de tecnologías emergentes. |Aprovechamiento de la creciente demanda de experiencias turísticas. Colaboraciones con empresas relacionadas al sector turismo.|Expansión al mercado peruano. Desarrollo de alianzas estratégicas con empresas peruanas. Integración de tecnologías emergentes.|
+|**Análisis SWOT**|**Amenazas**|Cambios en la regulación gubernamental en el sector turismo. Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio. Riesgos en la protección de datos.|Cambios en la regulación gubernamental en el sector turismo. Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio. Competencia con otras plataformas de reservas turísticas. Riesgos en la protección de datos.|Cambios en la regulación gubernamental en el sector turismo. Competencia con otras plataformas de reservas turísticas tradicionales. Cambios en los patrones de viaje y comportamiento del viajero por eventos externos.|Cambios en la regulación gubernamental en el sector turismo. Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio. Competencia con otras plataformas de reservas turísticas. Riesgos en la protección de datos.|
+
+### 2.1.2 Estrategias y Tácticas frente a competidores
+Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a nuestros competidores.
+|              |        Oportunidades      | Amenazas |
+|--------------|--------------|--------------|
+|--------------|O1: Expansión al mercado peruano
+O2: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos
+O3: Colaboraciones con empresas relacionadas al sector turismo
+|A1: Cambios en la regulación gubernamental en el sector turismo
+A2: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio
+A3: Riesgos en la protección de datos|
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
