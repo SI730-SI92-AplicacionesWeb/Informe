@@ -37,3 +37,25 @@ Para mantener una codificación coherente en nuestro proyecto con Vue.js en Inte
 Se seguirán las prácticas de "conventional commits" tanto para la creación de ramas como para los commits, utilizando el modelo de GitFlow. Las ramas se nombrarán siguiendo el formato "type/title", como por ejemplo "feat/main-component" para nuevas funcionalidades.
 
 El flujo de versiones centrará el desarrollo en la rama "main", que contendrá la versión de producción de la aplicación. Todas las características y correcciones se fusionarán en esta rama principal, asegurando un desarrollo ordenado y consistente del proyecto.
+
+### 5.1.4. Software Deployment Configuration
+
+**Landing Page Deployment**
+
+Los pasos para el despliegue del Landing Page son:
+
+1. Dirigirse a la sección "Settings" en GitHub.
+2. Seleccionar "Build and deployment" en "Pages".
+3. Optar por "Deploy from a branch".
+4. Seleccionar la rama "main" para el despliegue.
+5. Al completarse el despliegue, se generará un enlace para acceder a la Landing Page.
+
+## 5.2. Landing Page, Services & Applications Implementation
+
+### 5.2.1. Sprint 1
+
+En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en el que el equipo se concentra en completar todas las actividades necesarias para alcanzar el "Product Goal" o meta del producto.
+
+### 5.2.1.1. Sprint Planning 1
+
+Un Sprint es un ciclo breve y específico utilizado en metodologías ágiles como Scrum, durante el cual se llevan a cabo ciertas tareas o actividades para avanzar en un proyecto. El Sprint #1, que comienza el 12 de agosto de 2024, tiene como meta principal crear una landing page atractiva para Turisteando. Esta página web deberá capturar la atención de los usuarios potenciales y destacar los beneficios clave de nuestro producto.
