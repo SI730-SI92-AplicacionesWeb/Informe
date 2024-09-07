@@ -146,25 +146,23 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ** Descripción de la empresa:** 
-Emprendimiento Ballenita es una Startup con el objetivo de facilitar la adquisición de la cultura e historia que permite la visita a los lugares más hermosos del mundo. Países como el Perú, con sus construcciones antiguas, selvas y montañas, es fácil olvidar que cada paisaje o construcción histórica tiene muchas historias y curiosidades. Los que pueden contarnos esas historias son los guías, sin embargo es difícil contactar con uno sin la probabilidad de ser estafados. Nosotros enfrentaremos esta problemática en el turismo, ofreciendo una solución tecnológica que permita la comunicación directa y confiable entre los turistas y los guías turísticos.
+Motoratones es una Startup que busca facilitar el acceso a la rica cultura e historia de los lugares más impresionantes del mundo. En países como Perú, conocido por sus antiguas construcciones, exuberantes selvas y majestuosas montañas, es común olvidar que detrás de cada sitio histórico se esconden numerosas historias y curiosidades. Aunque los guías turísticos son quienes pueden compartir estos relatos, contactarlos de manera segura puede ser un reto debido a posibles fraudes. Nuestra propuesta es una solución tecnológica que conectará de forma directa y confiable a los turistas con guías turísticos, abordando esta problemática en el sector del turismo.
 
 ** Visión:** 
-Nuestra visión es ser líderes en la promoción del turismo vivencial en áreas remotas de los pueblos remotos andinos, proporcionando a los viajeros aventureros acceso fácil y seguro a experiencias auténticas y memorables. Nos esforzamos por crear un puente entre las comunidades locales y los visitantes, promoviendo el respeto por la cultura y el medio ambiente, y contribuyendo al desarrollo sostenible de las regiones que servimos.
+Nuestra visión es convertirnos en líderes en la promoción del turismo vivencial en las áreas más remotas de los pueblos andinos, brindando a los viajeros aventureros un acceso seguro y sencillo a experiencias auténticas e inolvidables. Buscamos crear un vínculo entre las comunidades locales y los visitantes, fomentando el respeto por la cultura y el entorno natural, al tiempo que contribuimos al desarrollo sostenible de las regiones en las que operamos.
 
 ** Misión:** 
-Nuestra misión es facilitar conexiones significativas entre viajeros y culturas locales, promoviendo experiencias turísticas auténticas que enriquezcan la vida de nuestros usuarios y contribuyan al bienestar de las comunidades anfitrionas. Nos comprometemos a ofrecer un servicio excepcional, impulsado por la innovación y la pasión por el turismo responsable.
-
-
+Nuestra misión es crear conexiones significativas entre los viajeros y las culturas locales, fomentando experiencias turísticas auténticas que enriquezcan la vida de nuestros usuarios y beneficien a las comunidades anfitrionas. Nos dedicamos a brindar un servicio excepcional, impulsado por la innovación y la pasión por el turismo responsable.
 
 
 ** Descripción del producto:** 
-Turisteando, nuestra solución, se perfila como una plataforma digital innovadora dedicada a conectar a viajeros aventureros con guías locales y proveedores de servicios turísticos en áreas remotas de los pueblos remotos andinos. Su enfoque en el turismo vivencial busca satisfacer la creciente demanda de experiencias auténticas y significativas en entornos naturales únicos, ofreciendo una solución integral para aquellos que buscan explorar destinos fuera de lo común al facilitar la comunicación con mapas interactivos que permitan conocer los caminos, lugares que serán visitados, horas de salida y horas de llegada a lugares específicos del recorrido, información de perfil donde se encuentra información como sus estudios, información sobre su licencia o información personal, y por último las opiniones de los usuarios que pidieron sus servicios.
+Tursitos es nuestra innovadora plataforma digital diseñada para conectar a viajeros aventureros con guías locales y proveedores de servicios turísticos en las áreas más remotas de los pueblos andinos. Centrada en el turismo vivencial, responde a la creciente demanda de experiencias auténticas y significativas en entornos naturales únicos. La plataforma ofrece una solución completa para quienes buscan explorar destinos fuera de lo común, facilitando la comunicación a través de mapas interactivos que muestran rutas, puntos de interés, horarios de salida y llegada, así como perfiles detallados de los guías, que incluyen su formación, licencias y datos personales, además de opiniones de usuarios anteriores sobre sus servicios.
 
 ### 1.1.2 Perfiles de integrantes del equipo 
 | Nombre       | Código       | Descripcion  |Imagen        |
 |--------------|--------------|--------------|--------------|
 | ************ | ************ | ************ | ************ |
-|Alexande Paolo Justo Yauricasa|U20191C054|--------------|--------------|
+|Alexande Paolo Justo Yauricasa|U20191C054| Soy estudiante de Ingeniería de Software en la UPC. Me considero alguien responsable y altamente motivado para completar todos mis trabajos académicos. Me comprometo a cumplir con mis tareas y a alentar a mis compañeros de equipo para alcanzar los objetivos del curso. |<img src = "" >|
 |--------------|--------------|--------------|--------------|
 |Jose Raul Chirito Torres|U20201A203|--------------|--------------|
 |--------------|--------------|--------------|--------------|
@@ -175,41 +173,41 @@ Turisteando, nuestra solución, se perfila como una plataforma digital innovador
 ### 1.2.1 Antecedentes y Problemática
 En esta parte utilizamos el 5w 2h para conocer los puntos importantes del problema al cual nos enfrentamos:
 
-Who (Quién): Los usuarios a los que se dirige la plataforma son los viajeros aventureros y amantes de la naturaleza que buscan experiencias auténticas. Los clientes potenciales son los guías locales y los proveedores de servicios turísticos en áreas remotas de los pueblos remotos andinos.
+Who (Quién): La plataforma está dirigida a viajeros aventureros y amantes de la naturaleza que buscan experiencias auténticas. Los clientes potenciales son guías locales y proveedores de servicios turísticos en áreas remotas de los pueblos andinos.
 
-What (Qué): El proyecto implica el desarrollo de una plataforma digital que conecte a los usuarios con guías locales y proveedores de servicios turísticos en áreas remotas de los pueblos lejanos. Esta plataforma facilitará la reserva de experiencias auténticas y memorables en entornos naturales únicos.
+What (Qué): El proyecto consiste en desarrollar una plataforma digital que conecte a los usuarios con guías locales y proveedores de servicios turísticos en áreas remotas. Esta plataforma facilitará la reserva de experiencias auténticas y memorables en entornos naturales únicos.
 
-Where (Dónde): Inicialmente, la platafor++ma se centrará en áreas remotas de los pueblos distantes. Sin embargo, existe la posibilidad de una expansión futura hacia otras regiones que compartan características similares.
+Where (Dónde): Inicialmente, la plataforma se enfocará en áreas remotas de pueblos lejanos, con la posibilidad de expandirse en el futuro a otras regiones similares.
 
-When (Cuando): La problemática tiene un tiempo debido a que el turismo no está bien gestionado del todo en el Perú. El desarrollo y lanzamiento de la plataforma probablemente se llevará a cabo en un período de tiempo determinado.
+When (Cuando): La problemática es actual, ya que el turismo en Perú no está completamente gestionado. El desarrollo y lanzamiento de la plataforma se llevará a cabo en un periodo determinado.
 
-Why (Por qué): El objetivo principal del proyecto es abordar la falta de acceso a experiencias turísticas auténticas en áreas remotas de los pueblos andinos. Además, se busca satisfacer la creciente demanda de turismo vivencial entre los viajeros aventureros y amantes de la naturaleza.
+Why (Por qué): El proyecto busca resolver la falta de acceso a experiencias turísticas auténticas en áreas remotas y satisfacer la creciente demanda de turismo vivencial entre los viajeros aventureros y amantes de la naturaleza.
 
-How (Cómo): El desarrollo de la plataforma se llevará a cabo mediante la creación de una aplicación web que facilite la conexión entre usuarios, guías locales y proveedores de servicios turísticos en áreas remotas. Esta aplicación permitirá la reserva de experiencias y la comunicación durante el viaje.
+How (Cómo): La plataforma se desarrollará como una aplicación web que facilitará la conexión entre usuarios, guías locales y proveedores de servicios turísticos en áreas remotas, permitiendo la reserva de experiencias y la comunicación durante el viaje.
 
-How much (Cuánto): Los costos podrían variar dependiendo de factores como el desarrollo de la aplicación, los gastos de marketing y las tarifas de membresía para los proveedores de servicios turísticos.
+How much (Cuánto): Los costos variarán según factores como el desarrollo de la aplicación, los gastos de marketing y las tarifas de membresía para los proveedores de servicios turísticos.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1 Lean UX Problem Statement
-Nuestra aplicación se encargará de brindar a los guías turísticos (clientes) una alternativa a la forma con la que contactan con los turistas (usuarios) con la finalidad de ayudar a los mismos a poder realizar sus viajes de turismo vivencial, mientras que nos esforzamos en brindarles promoción a los guías, otorgarles seguridad y confianza a los clientes.
+Nuestra aplicación tiene como objetivo proporcionar a los guías turísticos una alternativa para conectarse con los turistas, facilitando la planificación de sus viajes de turismo vivencial. A su vez, nos comprometemos a promocionar a los guías, asegurando que tanto ellos como los turistas se sientan seguros y confiados al utilizar la plataforma.
 
-Entre algunos factores que logramos observar que podrían ser perjudiciales para la app son que para los turistas es difícil experimentar la autenticidad y la belleza de los pueblos andinos. Por otro lado, para los guías locales, esta situación significa la falta de oportunidades para promocionar sus servicios y compartir su conocimiento especializado.
+Identificamos ciertos desafíos que podrían afectar nuestra app, como la dificultad que enfrentan los turistas para experimentar la autenticidad y belleza de los pueblos andinos. Para los guías locales, esto se traduce en una falta de oportunidades para promocionar sus servicios y compartir su conocimiento especializado.
 
-Con el objetivo de abordar este problema, nuestra visión es desarrollar una plataforma digital que conecte a los viajeros aventureros con guías locales expertos en pueblos andinos, proporcionando un acceso fácil y seguro a experiencias turísticas auténticas y memorables.
-Teniendo preguntas como, ¿cómo podríamos elevar la confianza de nuestro clientes con nuestra plataforma? ¿Qué tan importante es una plataforma centrada en el turismo vivencial?
+Para solucionar este problema, nuestra visión es desarrollar una plataforma digital que conecte a los viajeros aventureros con guías locales especializados en los pueblos andinos, ofreciendo acceso seguro y sencillo a experiencias turísticas auténticas y memorables. Nos hacemos preguntas clave como: ¿cómo podemos aumentar la confianza de nuestros clientes en nuestra plataforma? y ¿cuál es la importancia de una plataforma centrada en el turismo vivencial?
 
 #### 1.2.2.2 Lean UX Assumptions
 ** Business outcomes** 
 
-Nuestra iniciativa en el campo del turismo vivencial tiene como objetivo atender la creciente demanda de experiencias auténticas y en contacto directo con la naturaleza en áreas remotas y poco accesibles. Esperamos generar ingresos mediante la oferta de paquetes turísticos personalizados que incluyen actividades exclusivas y significativas en entornos naturales únicos.
+Nuestra iniciativa en el ámbito del turismo vivencial busca satisfacer la creciente demanda de experiencias auténticas y en contacto directo con la naturaleza en áreas remotas y de difícil acceso. Planeamos generar ingresos ofreciendo paquetes turísticos personalizados que incluyan actividades exclusivas y significativas en entornos naturales únicos.
 
 ** User benefits** 
 
-Nuestra plataforma ofrecerá a los usuarios la oportunidad de sumergirse en la cultura local y en la belleza natural de lugares remotos a través de experiencias auténticas de turismo vivencial. Podrán participar en actividades interactivas y enriquecedoras, como caminatas guiadas por expertos locales, talleres de artesanía tradicional y encuentros con comunidades indígenas.
+Nuestra plataforma brindará a los usuarios la oportunidad de sumergirse en la cultura local y en la belleza natural de lugares remotos a través de experiencias auténticas de turismo vivencial. Los usuarios podrán participar en actividades interactivas y enriquecedoras, como caminatas guiadas por expertos locales, talleres de artesanía tradicional y encuentros con comunidades indígenas.
 
 ** User & Costumers** 
 
-Nuestros usuarios principales serán viajeros aventureros y amantes de la naturaleza que buscan experiencias únicas y significativas en sus viajes. Nuestros clientes serán los guías locales y los proveedores de servicios turísticos en áreas remotas, quienes se beneficiarán al llegar a una audiencia más amplia y diversa a través de nuestra plataforma.
+Nuestros usuarios principales serán viajeros aventureros y amantes de la naturaleza en busca de experiencias únicas y significativas durante sus viajes. Nuestros clientes serán guías locales y proveedores de servicios turísticos en áreas remotas, quienes se beneficiarán de alcanzar una audiencia más amplia y diversa a través de nuestra plataforma.
+
 1. ¿Quién(es) es el Usuario?
 
 Los usuarios de nuestra plataforma son personas que valoran las experiencias auténticas y desean explorar destinos fuera de lo común en contacto directo con la naturaleza y la cultura local.
@@ -282,47 +280,35 @@ La falta de disponibilidad de servicios básicos en áreas de difícil acceso, c
 Asociaciones estratégicas con proveedores de servicios turísticos locales y el desarrollo de soluciones innovadoras para abordar estas necesidades específicas.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 Usuario cliente:
-Hypothetical Statement: Comentarios de los usuarios
-Creemos que, al desarrollar una función donde las personas puedan dar su opinión y leer los comentarios de otros usuarios sobre los guías turísticos que contactaron en nuestra página web.
-Lograremos que los clientes sean muy activos en la página y podrán informarse mejor sobre los comportamientos y actitud de los guías que contratan
-Sabremos que hemos tenido éxito, cuando la demanda de guías turísticos haya aumentado en un 50% en comparación con los 4 primeros meses.
 
- Hypothetical Statement: Detalle en el recorrido
-Creemos que, al mostrar en un mapa interactivo el recorrido que el guía ofrece donde se pueda ver los lugares más importantes del recorrido y el horario para llegar a cada lugar en específico.
-Lograremos que los clientes no necesiten preguntar al guía sobre su recorrido y los tiempos que maneja.
-Sabremos que hemos tenido éxito, observemos que en la sección de comentarios disminuyan las preguntas relacionadas con el contenido en un 80% en relación a los 4 primeros meses.
+Comentarios de los usuarios:
+Creemos que al implementar una función donde las personas puedan dejar y leer opiniones sobre los guías turísticos contactados a través de nuestra página web, lograremos que los clientes se mantengan activos y bien informados sobre la actitud y comportamiento de los guías que contratan. Sabremos que hemos tenido éxito cuando la demanda de guías turísticos aumente en un 50% en comparación con los primeros cuatro meses.
 
- Hypothetical Statement: Búsqueda de recorridos
-Creemos que, al hacer una página intuitiva que permite buscar recorridos por guía turístico, lugares turísticos o zona, al mismo tiempo que puedas ordenar tus resultados por recomendación, precio y hora del recorrido.
-Lograremos que los clientes puedan encontrar fácilmente el recorrido que mejor cumpla sus requisitos.
-Sabremos que hemos tenido éxito, cuando los clientes recomienden usar nuestra página web por su facilidad de uso.
+Detalle en el recorrido:
+Creemos que al incluir un mapa interactivo que muestre los lugares clave del recorrido ofrecido por el guía, junto con los horarios específicos para cada parada, los clientes podrán conocer el itinerario sin necesidad de hacer preguntas adicionales. Sabremos que hemos tenido éxito cuando las preguntas relacionadas con el contenido del recorrido disminuyan en un 80% en los comentarios, en comparación con los primeros cuatro meses.
 
+Búsqueda de recorridos:
+Creemos que al crear una página intuitiva que permita buscar recorridos por guía turístico, lugar o zona, y ordenar los resultados por recomendación, precio o tiempo, los clientes podrán encontrar fácilmente el recorrido que mejor se adapte a sus necesidades. Sabremos que hemos tenido éxito cuando los clientes recomienden nuestra página por su facilidad de uso.
 
-·        Usuario guía:
- Hypothetical Statement: Confirmar la licencia de guia
-Creemos que, al permitir que solo guías con licencia puedan promocionar sus servicios en nuestra página web.
-Lograremos que los turistas confíen en nuestra página web.
-Sabremos que hemos tenido éxito, cuando hayan disminuido las quejas de fraude en un 90% en comparación con el primer mes.
+Usuario guía:
 
+Confirmar la licencia de guía:
+Creemos que al permitir que solo guías con licencia promocionen sus servicios en nuestra página, lograremos que los turistas confíen más en nuestra plataforma. Sabremos que hemos tenido éxito cuando las quejas de fraude disminuyan en un 90% respecto al primer mes.
 
-
-
-
- Hypothetical Statement: Creación de perfil 
-Creemos que, al hacer una página web intuitiva que permite a los guías escribir una descripción de su persona, también poner el recorrido y los lugares que visitará, dar información sobre servicios extra como llevar comida entre otros.
-Lograremos que muchos guías se sientan atraídos a la página web por su facilidad de promocionarse.
-Sabremos que hemos tenido éxito, cuando aumente la cantidad de guías que quieran ofrecer sus servicios en un 50% respecto a los 2 primeros meses
+Creación de perfil:
+Creemos que al ofrecer una página intuitiva que permita a los guías crear un perfil donde puedan describirse, detallar su recorrido y añadir información sobre servicios adicionales, lograremos atraer a más guías por la facilidad de promocionarse. Sabremos que hemos tenido éxito cuando el número de guías que ofrezcan sus servicios aumente en un 50% en comparación con los primeros dos meses.
 
 #### 1.2.2.4. Lean UX Canvas
 <img src="">
 
 ## 1.3 Segmentos Objetivo
 Segmento Objetivo #1: **Viajeros (18+ años)**
-Nuestro primer segmento objetivo abarca a las personas que, independientemente de la edad que tengan, necesitan un guía especializado en zonas turísticas, ya sea en la costa, sierra o selva peruana.
- 
+Este segmento abarca a personas de 18 años o más que buscan guías especializados para explorar zonas turísticas en Perú, ya sea en la costa, sierra o selva. Independientemente de su edad, estos viajeros buscan experiencias auténticas y un acompañamiento experto para conocer mejor los destinos que visitan.
+
 Segmento Objetivo #2: **Guías turísticos experimentados (18+ años)**
-Nuestro segundo segmento objetivo abarca a guías turísticos experimentados, quienes necesitan una herramienta que funcione como intermediario, ayudándoles a conseguir más clientes en la zona turística donde trabajan.
+Este segmento está compuesto por guías turísticos experimentados, mayores de 18 años, que necesitan una herramienta efectiva para conectarse con más clientes. Buscan una plataforma que funcione como intermediario, facilitando la promoción de sus servicios en las zonas turísticas donde operan.
 
 
 ## [Conclusiones](#conclusiones)
