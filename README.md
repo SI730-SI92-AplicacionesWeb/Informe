@@ -443,7 +443,7 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 | Edad:       | 22 |
 | Timing: | 7:02 |
 | Captura |![Aldo](https://media.discordapp.net/attachments/1281807145603436607/1281873610105159680/image.png?ex=66dd4d54&is=66dbfbd4&hm=8e8879bb47bc17170ffdc23996ad85ac25a37d8f0842b524ee4b7537c70eecbd&=&format=webp&quality=lossless&width=842&height=473) |
-|Resumen: | Aldo nos menciona que ser guía turístico hoy en día es rentable si trabaja más de las horas promedio como guía, sin embargo antos no era así pues era más rentable. A pesar de eso cree que en pocos meses podrá ganar lo que solía ganar en los años pre-pandemicos debido a la difusión de su trabajo por las redes sociales |
+|Resumen: | Aldo nos menciona que ser guía turístico hoy en día es rentable si trabaja más de las horas promedio como guía, sin embargo antos no era así pues era más rentable. A pesar de eso cree que en pocos meses podrá ganar lo que solía ganar en los años pre-pandemicos debido a la difusión de su trabajo por las redes sociales. Cree firmemente en que le ayudaría mucho más si estuviera registrado dentro de una aplicación web|
 | Link | https://drive.google.com/file/d/1CF8eBLnYLg7hoh1T0mu-M1_HODIpQ_-Y/view?usp=sharing |
 
 
