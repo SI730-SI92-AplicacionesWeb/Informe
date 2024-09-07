@@ -301,7 +301,8 @@ Creación de perfil:
 Creemos que al ofrecer una página intuitiva que permita a los guías crear un perfil donde puedan describirse, detallar su recorrido y añadir información sobre servicios adicionales, lograremos atraer a más guías por la facilidad de promocionarse. Sabremos que hemos tenido éxito cuando el número de guías que ofrezcan sus servicios aumente en un 50% en comparación con los primeros dos meses.
 
 #### 1.2.2.4. Lean UX Canvas
-<img src="assets/photos/canvas.png">
+![Foto Alex]
+(https://media.discordapp.net/attachments/1281807145603436607/1281809062681641011/canvas.png?ex=66dd1137&is=66dbbfb7&hm=a2c6bfc5bf3afe88511d71344019ffce7dc7e8a0b296d227fcad095e6db7d910&=&format=webp&quality=lossless&width=988&height=559)
 Ver a detalle en el anexo 1
 
 ## 1.3 Segmentos Objetivo
