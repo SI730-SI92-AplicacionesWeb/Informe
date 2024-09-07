@@ -145,9 +145,10 @@ Ingresamos el dominio de la landing page
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-## 5.3. Validation Interviews
-### 5.3.1. Diseño de entrevistas
-### 5.3.2. Registro de entrevistas
-### 5.3.3. Evaluación según heurísticas
+Dado que el primer sprint se centra en la documentación y la creación del landing page, 4 de los 6 integrantes trabajaron en el desarrollo de ambas 
 
-## 5.4. Video about the product
+![Fto](https://media.discordapp.net/attachments/1281807145603436607/1281916965807718410/image.png?ex=66dd75b5&is=66dc2435&hm=c1a1b4c54c98fe22e9755c5169582581630fa374980c9c7960eeb8bc1e6d5e8e&=&format=webp&quality=lossless&width=1025&height=433) 
+
+![Photo](https://media.discordapp.net/attachments/1281807145603436607/1281917128412364881/image.png?ex=66dd75dc&is=66dc245c&hm=7877deb741e1957a1b6e0704e357475f5bd913497a3e7808e13e70407f8d659e&=&format=webp&quality=lossless&width=1002&height=473)
+
+
