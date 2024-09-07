@@ -358,7 +358,134 @@ Realizamos este análisis para poder descubrir o identificar espacios de interé
 Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a nuestros competidores.
 |              |        Oportunidades      | Amenazas |
 |--------------|--------------|--------------|
-|--------------|O1: Expansión al mercado peruano <br>O2: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br> O3: Colaboraciones con empresas relacionadas al sector turismo|A1: Cambios en la regulación gubernamental en el sector turismo <br>A2: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio <br>A3: Riesgos en la protección de datos|
+||**O1**: Expansión al mercado peruano <br>**O2**: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br> **O3**: Colaboraciones con empresas relacionadas al sector turismo|**A1**: Cambios en la regulación gubernamental en el sector turismo <br>**A2**: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio <br>**A3**: Riesgos en la protección de datos|
+|**Fortalezas**|**Estrategias FO (Ofensivas)**|**Estrategias FA (Defensivas)**|
+|**F1**: Facilidad de uso de la aplicación<br>**F2**: Función de registro de guías turísticos<br>**F3**: Verificación de guías turísticos<br>**F4**: Conexión directa entre viajeros y guías turísticos experimentados<br>**F5**: Uso de herramientas digitales adicionales para una mejor experiencia de usuario|**FO1**: Selección de guías turísticos de acuerdo al conocimiento de cada zona en el país, para ampliar así la cartera de clientes (O1, F2, F3)<br>**FO2**: Uso de herramientas digitales para conseguir una mayor cantidad de colaboraciones con empresas (F1, F5, O3)
+|**FA1**: Interfaz de uso sencillo en el rubro, incluyendo aspectos adicionales como la regulación legal en el rubro, actualizada y completa, así como un reglamento de conducta entre viajeros-guías (F1, F4, A1)<br>**FA2**: Mejorar la seguridad de la plataforma –registro de usuarios y guías turísticos– para que los usuarios puedan utilizarla con confianza (F2, F3, A2, A3)|
+|**Debilidades**|**Estrategias DO (Reorientación)**|**Estrategias DA (Supervivencia)**|
+|**D1**: Empresa nueva<br>**D2**: Dependencia de la cantidad de usuarios<br>**D3**: Falta de colaboradores<br>**D4**: Competencia en el mercado<br> 
+|**DO1**: Empezar el desarrollo de la empresa adaptada al mercado peruano (D1, O1)<br>**DO2**: Aumentar la cantidad de usuarios gracias a los colaboradores, relacionados al sector turismo, que puedan unirse al proyecto (D2, D3, D4, O3)<br>
+|**DA1**:  Generar confianza en los usuarios y colaboradores mejorando el sistema de seguridad, para así atraer mayor cantidad de usuarios gracias a las recomendaciones (D2, D3, D4, A2)|
+
+## 2.2 Entrevistas 
+
+### 2.2.1 Diseño de entrevistas
+
+**Interesados**
+1.	¿Cuál es su nombre completo y su edad?
+2.	¿Cuál es su profesión o donde trabaja?
+3.	¿Cree que hacer turismo es necesario en su vida? ¿Por qué?
+4.	¿Generalmente cada cuanto tiempo hace turismo? ¿A qué lugar?
+5.	¿Ha usado sitios web o apps de viajes? ¿Hace cuánto?
+6.	¿Cree que es importante contratar un guía turístico en los viajes? ¿Por qué?
+7.	¿Cuándo ha viajado, le ha hecho falta un guía turístico?
+8.	¿Cuáles son sus criterios para elegir el lugar donde hacer turismo?
+9.	¿Qué es lo que más le gusta de hacer turismo?
+10.	¿Alguna vez lo estafaron cuando estaba en un viaje turístico?
+11.	¿Si quiere contratar un guía turístico, como lo buscaría?
+12.	¿Cuando busca contratar un guía turístico, les pregunta a varios guías turísticos sus recorridos y horarios, o elige el primero que encuentra?
+13.	¿Está seguro que todos los guías turísticos que ha contratado tenían sus licencias?
+14.	¿Algunos guías turísticos han ofrecido servicios además de su guía como paseos en cuatrimotos? 
+
+**Guias**
+1.	¿Cuál es su nombre completo y su edad?
+2.	¿Cuál es su profesión o donde trabaja?
+3.	¿Cree que hacer turismo es necesario en su vida? ¿Por qué?
+4.	¿Generalmente cada cuanto tiempo hace turismo? ¿A qué lugar?
+5.	¿Ha usado sitios web o apps de viajes? ¿Hace cuánto?
+6.	¿Cree que es importante contratar un guía turístico en los viajes? ¿Por qué?
+7.	¿Cuándo ha viajado, le ha hecho falta un guía turístico?
+8.	¿Cuáles son sus criterios para elegir el lugar donde hacer turismo?
+9.	¿Qué es lo que más le gusta de hacer turismo?
+10.	¿Alguna vez lo estafaron cuando estaba en un viaje turístico?
+11.	¿Si quiere contratar un guía turístico, como lo buscaría?
+12.	¿Cuando busca contratar un guía turístico, les pregunta a varios guías turísticos sus recorridos y horarios, o elige el primero que encuentra?
+13.	¿Está seguro que todos los guías turísticos que ha contratado tenían sus licencias?
+14.	¿Algunos guías turísticos han ofrecido servicios además de su guía como paseos en cuatrimotos?
+
+### 2.2.2 Registro de entrevistas 
+
+***Enlace Entrevistas:*** https://drive.google.com/drive/folders/11h-TV78mcy4c446guzOKuS0bnOemxchT?usp=sharing
+**Entrevista a Interesado**
+| Registro de entrevista 1 | | 
+|------------ |------------|
+| Nombre:     |       |
+| Edad:       | |
+| Distrito: |  |
+| Timing: |  |
+| Captura | |
+|Resumen: | |
+| Link |  |
+
+**Entrevista a Guia turistico**
+
+### 2.2.3 Análisis de entrevistas
+
+**Segmento Objetivo: Interesados**
+
+**Segmento Objetivo: Guia turistico**
+
+## 2.3 Needfinding 
+
+### 2.3.1 User Personas
+
+**Segmento de interesados:**
+![UserPersonaClient](https://media.discordapp.net/attachments/1281807145603436607/1281824351649267785/image.png?ex=66dd1f74&is=66dbcdf4&hm=382d7046c0d8b28d7289e847b60e5975569b36366b25714e2b5b59a6fcd9e12e&=&format=webp&quality=lossless&width=361&height=559)
+
+**Segmento de Guia turisticos:**
+![UserPersonaGuia](https://media.discordapp.net/attachments/1281807145603436607/1281825128967049358/image.png?ex=66dd202d&is=66dbcead&hm=3aa61fe0602d84006674dea1ab13ddca4451f0b19d828ed6cb4137d37c48b7c0&=&format=webp&quality=lossless&width=391&height=559)
+
+### 2.3.2 User Task Matrix
+
+**User Persona: Interesados** 
+
+| Tareas| Frecuencia | Importancia |
+| ---------- | ------ | ---------- |
+| Registrar cuenta | Alta | Media |
+| Autenticarse | Media | Alta |
+| Buscar guías | Media | Alta |
+| Filtrar búsqueda de guías | Alta | Media |
+| Ver información del guía | Media | Alta |
+| Administrar lista de favoritos | Alta | Alta |
+| Contratar servicio de guía  | Alta | Alta |
+| Reservar servicio de guía) | Alta | Alta |
+| Pagar servicio | Alta | Alta |
+| Generar recibo electrónico | Media | Alta |
+| Revisar valoraciones y reseñaso | Baja | Media |
+| Compartir experiencia en redes sociales | Baja | Baja |
+
+**User Persona: Guia turisticos** 
+| Tareas| Frecuencia | Importancia |
+| ---------- | ------ | ---------- |
+| Registrar cuenta | Alta | Media |
+| Autenticarse | Alta | Alta |
+| Gestionar certificación | Media | Alta |
+| Configurar datos de usuario | Alta | Media |
+| Verificar reservas | Baja | Alta |
+| Confirmar servicio | Alta | Alta |
+| Atender servicio  | Alta | Alta |
+| Generar recibo electrónico | Media | Alta |
+| Revisar valoraciones | Alta | Media |
+
+### 2.3.3. User Journey Mapping
+**Segmento 1 (Turista):**
+![UserJourneyTurista](https://media.discordapp.net/attachments/1281807145603436607/1281826691089436692/image.png?ex=66dd21a2&is=66dbd022&hm=c79a4694cd0f911ac7b935f7f1d96ee6ac8e81351e59a9a292f86289de9e7ff8&=&format=webp&quality=lossless&width=749&height=559)
+
+**Segmento 2 (Guía turístico):**
+![UserJourneyGuia](https://media.discordapp.net/attachments/1281807145603436607/1281826929787404318/image.png?ex=66dd21db&is=66dbd05b&hm=efec621e033cf71d8c2bfedfa121727d12dea918bbc3830eacae0bb65e205823&=&format=webp&quality=lossless&width=870&height=559)
+
+### 2.3.4. Empathy Mapping
+**Segmento 1 (Turista):**
+![EmpatyMTurista](https://media.discordapp.net/attachments/1281807145603436607/1281827184532787231/image.png?ex=66dd2217&is=66dbd097&hm=48da6760e8744b2cd91cfec188376ec4cdf8a8bb7b8770c677930546fe42bca7&=&format=webp&quality=lossless&width=455&height=559)
+
+**Segmento 2 (Guía turístico):**
+![EmpatyMGuia](https://media.discordapp.net/attachments/1281807145603436607/1281827478641574029/image.png?ex=66dd225e&is=66dbd0de&hm=b82e47421440d8e540f94831abc36439770f78442cd96d420eda26eb59cbe01c&=&format=webp&quality=lossless&width=425&height=558)
+
+### 2.3.5. As-is Scenario Mapping
+Luis desea visitar un lugar turístico con un guía
+|------------ |------------|------------|------------|
+| Phases | Antes de contratar al guía| Durante la contratación del guía| Al terminar de contratar el guía|
+
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
