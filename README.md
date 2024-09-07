@@ -432,9 +432,11 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 ### 2.3.1 User Personas
 
 **Segmento de interesados:**
+
 ![UserPersonaClient](https://media.discordapp.net/attachments/1281807145603436607/1281824351649267785/image.png?ex=66dd1f74&is=66dbcdf4&hm=382d7046c0d8b28d7289e847b60e5975569b36366b25714e2b5b59a6fcd9e12e&=&format=webp&quality=lossless&width=361&height=559)
 
 **Segmento de Guia turisticos:**
+
 ![UserPersonaGuia](https://media.discordapp.net/attachments/1281807145603436607/1281825128967049358/image.png?ex=66dd202d&is=66dbcead&hm=3aa61fe0602d84006674dea1ab13ddca4451f0b19d828ed6cb4137d37c48b7c0&=&format=webp&quality=lossless&width=391&height=559)
 
 ### 2.3.2 User Task Matrix
@@ -471,16 +473,20 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 
 ### 2.3.3. User Journey Mapping
 **Segmento 1 (Turista):**
+
 ![UserJourneyTurista](https://media.discordapp.net/attachments/1281807145603436607/1281826691089436692/image.png?ex=66dd21a2&is=66dbd022&hm=c79a4694cd0f911ac7b935f7f1d96ee6ac8e81351e59a9a292f86289de9e7ff8&=&format=webp&quality=lossless&width=749&height=559)
 
 **Segmento 2 (Guía turístico):**
+
 ![UserJourneyGuia](https://media.discordapp.net/attachments/1281807145603436607/1281826929787404318/image.png?ex=66dd21db&is=66dbd05b&hm=efec621e033cf71d8c2bfedfa121727d12dea918bbc3830eacae0bb65e205823&=&format=webp&quality=lossless&width=870&height=559)
 
 ### 2.3.4. Empathy Mapping
 **Segmento 1 (Turista):**
+
 ![EmpatyMTurista](https://media.discordapp.net/attachments/1281807145603436607/1281827184532787231/image.png?ex=66dd2217&is=66dbd097&hm=48da6760e8744b2cd91cfec188376ec4cdf8a8bb7b8770c677930546fe42bca7&=&format=webp&quality=lossless&width=455&height=559)
 
 **Segmento 2 (Guía turístico):**
+
 ![EmpatyMGuia](https://media.discordapp.net/attachments/1281807145603436607/1281827478641574029/image.png?ex=66dd225e&is=66dbd0de&hm=b82e47421440d8e540f94831abc36439770f78442cd96d420eda26eb59cbe01c&=&format=webp&quality=lossless&width=425&height=558)
 
 ### 2.3.5. As-is Scenario Mapping
