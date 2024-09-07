@@ -517,95 +517,22 @@ Luis desea visitar un lugar turístico con un guía
 | **Feeling**|[Se siente angustiado porque no sabe si hoy tendrá clientes]<br>[Siente temor de no resaltar entre sus compañeros guías]|[Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba]<br>[Se siente aliviado al ver que un cliente solicita sus servicios]<br>[Se siente feliz porque llegó a un acuerdo con el cliente]|[Se siente aliviado al saber que si logro tener clientes en el día]<br> [Se siente bien al poder dar sus servicios a un buen precio para los 2]<br> [Se siente optimista al esperar ser recomendado con los contactos del cliente]|
 
 ## 2.4. Ubiquitous Language.
-Lean UX: Metodología de diseño centrada en el usuario y de desarrollo iterativo.
-User Personas: Representaciones ficticias de los usuarios objetivo.
-User Task Matrix: Matriz que enumera las tareas de los usuarios, su frecuencia e importancia.
-User Journey Mapping: Técnica para visualizar la experiencia del usuario a lo largo de un proceso.
-Empathy Mapping: Herramienta que ayuda a comprender mejor a los usuarios.
-As-is Scenario Mapping: Mapeo de la situación actual antes de una mejora.
-To-Be Scenario Mapping: Mapeo de la situación deseada después de una mejora.
-User Stories: Descripciones concisas de una funcionalidad desde la perspectiva del usuario.
-Impact Mapping: Técnica de planificación que vincula objetivos con impactos.
-Product Backlog: Lista priorizada de requisitos del producto.
-Wireframes: Esquemas visuales de la estructura y el diseño de la interfaz.
-Wireflow Diagrams: Diagramas que muestran el flujo de navegación entre pantallas.
-Mock-ups: Prototipos visuales de la interfaz de usuario.
-User Flow Diagrams: Diagramas que representan los pasos que sigue un usuario.
-Domain-Driven Design: Enfoque de diseño de software centrado en el dominio del problema.
-Container Diagrams: Diagramas que muestran los contenedores (aplicaciones, bases de datos, etc.).
-Components Diagrams: Diagramas que muestran los componentes de software.
-Class Diagrams: Diagramas que muestran las clases y sus relaciones.
-Class Dictionary: Documento que describe las clases y sus atributos.
-Database Diagram: Diagrama que muestra la estructura de la base de datos.
-Hipótesis (Hypothesis Statements): Suposiciones que se plantean para validar.
-Lean UX Canvas: Herramienta para definir el perfil del producto.
-Segmentos objetivo (User Segments): Grupos de usuarios objetivo.
-Análisis competitivo (Competitive Analysis): Estudio de los competidores.
-Needfinding: Proceso de identificación de necesidades de los usuarios.
-Gestión de certificación de guía (Certification Management): Proceso de gestión de la certificación de los guías.
-Métricas de rendimiento (Performance Metrics): Indicadores de desempeño.
-Historial de turistas atendidos (Customer History): Registro de los turistas atendidos.
-Personalización de ofertas (Offer Customization): Capacidad de personalizar las ofertas.
-Sistemas de organización (Organization Systems): Formas de organizar el contenido y la información.
-Sistemas de etiquetado (Labeling Systems): Formas de etiquetar y nombrar el contenido.
-Sistemas de búsqueda (Searching Systems): Funcionalidades de búsqueda.
-Sistemas de navegación (Navigation Systems): Formas de navegar por el sitio web.
-Epics: Historias de usuario de alto nivel que abarcan varias funcionalidades.
-Sprints: Iteraciones cortas de desarrollo en un proceso ágil.
-Scrum: Metodología ágil de desarrollo de software.
-Kanban: Método de gestión visual de flujo de trabajo.
-Landing Page:Una página web diseñada específicamente para capturar la atención de los visitantes y llevarlos a realizar una acción específica
-Pruebas unitarias: Validación de componentes individuales del software.
-Pruebas de integración: Validación de la interacción entre componentes.
-Pruebas de aceptación: Validación del cumplimiento de requisitos.
-Despliegue continuo: Entrega automática de actualizaciones.
-Modelo Vista Controlador (MVC): Patrón de arquitectura de software.
-Inyección de dependencias: Técnica de programación orientada a objetos.
-API (Application Programming Interface): Conjunto de protocolos y definiciones.
-Microservicios: Arquitectura de aplicaciones modular.
-Colas de mensajes: Sistemas de comunicación asíncrona.
-Big Data: Conjuntos de datos de gran tamaño y complejidad.
-Machine Learning: Técnicas de aprendizaje automático.
-DevOps: Enfoque para integrar desarrollo y operaciones.
-Refactorización (Refactoring): Mejora del diseño interno del software.
-Patrones de diseño (Design Patterns): Soluciones probadas a problemas recurrentes.
-Arquitectura Orientada a Servicios (SOA): Estilo de arquitectura de software.
-Arquitectura Dirigida por Eventos (EDA): Arquitectura basada en eventos.
-Infraestructura como Código (IaC): Gestión de infraestructura mediante código.
-Virtualización: Creación de versiones virtuales de recursos de hardware.
-Contenedores (Containers): Paquetes de software estandarizados.
-Orquestación: Coordinación de despliegue y gestión de contenedores.
-Registro de Contenedores (Container Registry): Repositorio de imágenes de contenedores.
-Integración Continua (CI): Proceso de construcción y pruebas automáticas.
-Entrega Continua (CD): Proceso de despliegue automatizado.
-Monitorización: Supervisión del rendimiento y estado del sistema.
-Observabilidad: Capacidad de entender el estado interno del sistema.
-Manejo de Incidentes: Gestión de problemas y restauración del servicio.
-Programación Funcional: Paradigma de programación basado en funciones.
-Programación Orientada a Objetos: Paradigma de programación basado en objetos.
-Metaprogramación: Programas que manipulan otros programas.
-Pruebas Automatizadas: Ejecución de pruebas de manera programática.
-Logging y Trazabilidad: Registro y seguimiento de actividades del sistema.
-Frameworks: Estructuras de software reutilizables.
-Librerías: Colecciones de código y funciones premconstruidas.
-Algoritmos: Secuencias de pasos lógicos para resolver problemas.
-Complejidad Algorítmica: Análisis del rendimiento de los algoritmos.
-Arquitectura Hexagonal: Patrón de arquitectura de software.
-Criptografía: Técnicas de codificación de información.
-Seguridad de Aplicaciones: Protección de aplicaciones contra amenazas.
-Gestión de Configuraciones: Control de cambios en el software.
-Pruebas de Penetración: Evaluación de la seguridad del sistema.
-Pruebas No Funcionales: Validación de requisitos no funcionales.
-Escalabilidad: Capacidad de un sistema para manejar cargas de trabajo.
-Tolerancia a Fallos: Capacidad de un sistema de seguir funcionando.
-Fiabilidad: Capacidad de un sistema de funcionar sin fallos.
-Disponibilidad: Capacidad de un sistema de estar operativo.
-Rendimiento: Capacidad de un sistema de responder rápidamente.
-Usabilidad: Facilidad de uso de una interfaz de usuario.
-Accesibilidad: Capacidad de un sistema de ser usado por todos.
-Interoperabilidad: Capacidad de sistemas de intercambiar información.
-Ciclo de Vida del Software: Etapas por las que pasa el desarrollo.
-
+<table border="1px">
+    <tbody>
+        <tr>
+            <td>Término</td>
+            <td>Definición</td>
+        </tr>
+        <tr>
+            <td>Principiante</td>
+            <td>Cualquier persona que utiliza la plataforma para facilitar la busqueda de un guia turistico</td>
+        </tr>
+        <tr>
+            <td>Experto</td>
+            <td>Cualquier persona que utiliza la plataforma para brindar guias</td>
+        </tr>
+    </tbody>
+</table>
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
