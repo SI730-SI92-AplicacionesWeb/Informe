@@ -142,6 +142,14 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
+# Capítulo II : Requirements Elicitation & Analysis 	
+
+## 2.1 Competidores
+Nuestros competidores son empresas dentro del sector turístico, específicamente aquellas que se dedican a conectar a los turistas con guías turísticos.
+
+A continuación, mencionaremos algunos de los competidores de nuestro rubro:
+Get Your Guide: https://www.getyourguide.es/
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)
