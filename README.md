@@ -60,8 +60,8 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 | **Sprint #** | 1 |
 |--------------|---|
 | **Sprint Planning Background** |   |
-| **Date** | 30/03/2024 |
-| **Time** | 08:00 pm |
+| **Date** | 26/08/2024 |
+| **Time** | 19:00 pm |
 | **Location** | Reunión virtual a través del Google Meet |
 | **Prepared by** | Alexander Justo |
 | **Attendees (to planning meeting)** | Carlos Alejandro De La Cruz Villarreal, Rafael Agustin Pacheco Lavado, Alexander Paolo Justo Yauricasa, Erick Alessander Vasquez Goicochea|
@@ -88,6 +88,15 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+|              |        |                                          |                               |                     |                  |
+|--------------|--------|------------------------------------------|-------------------------------|---------------------|------------------|
+| Repository   | Branch | Commit ID                                | Commit Message                | Commit Message Body | Commited on date |
+| Landing Page | main   | 35ac564126f8ea4cf2f3639000997c36314435c2 | Feature: Add files via upload | ---                 | 06/09/2024       |
+| Landing Page | main   | b5663f1523331ffff520691a5ea2557b3bfe42fe | Feature: Update Index         | ---                 | 05/09/2024       |
+| Landing Page | main   | 04fa749ec8ed00e5795c24f1981a6c442126d92a | Feature: Add files via upload | ---                 | 05/09/2024       |
+| Landing Page | main   | 0a3cb89c77bd0f683aa631696f697190588189ed | Feature: Update Index         | ---                 | 04/09/2024       |
+| Landing Page | main   | 467565122d09dfe9c2c6952c83a6af000f41ce4a | Feature: Update Index         | ---                 | 04/09/2024       |
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
