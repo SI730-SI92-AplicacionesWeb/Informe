@@ -1,4 +1,4 @@
-# Universidad Peruana de Ciencias Aplicadas
+![image](https://github.com/user-attachments/assets/0f4c0e7d-5659-4609-bb15-90b5204b86cb)# Universidad Peruana de Ciencias Aplicadas
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
@@ -848,11 +848,11 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 ### 4.4.2. Web Applications Wireflow Diagrams
 ![Web Applications Wireflow Diagrams](https://media.discordapp.net/attachments/1203942564219330582/1281895045959651449/image.png?ex=66dd614b&is=66dc0fcb&hm=d6865f0503b5378183449a52357300d4dd4ed4d6985b516613ce072877bbe827&=&format=webp&quality=lossless&width=675&height=320)
 ### 4.4.3. Web Applications Mock-ups
-![Web Applications Wireframes-1](https://media.discordapp.net/attachments/1203942564219330582/1281899643428671529/image.png?ex=66dd6593&is=66dc1413&hm=b93dc51aae2114cb2672b8471d1d180c856db75c1a36962a2048a20c4cc46d72&=&format=webp&quality=lossless&width=675&height=320)
-![Web Applications Wireframes-2](https://media.discordapp.net/attachments/1203942564219330582/1281899768448155734/image.png?ex=66dd65b1&is=66dc1431&hm=aa2e1cb40a02cbee284bdfe262dd55b26f6914a73568e7ee5f31924f063a3a7b&=&format=webp&quality=lossless&width=675&height=320)
-![Web Applications Wireframes-3](https://media.discordapp.net/attachments/1203942564219330582/1281899818729345086/image.png?ex=66dd65bd&is=66dc143d&hm=4a60c0c303019859405f9e97684dbc07fa111f31b898ef2c81da59fa5d03ebb6&=&format=webp&quality=lossless&width=675&height=320)
-![Web Applications Wireframes-4](https://media.discordapp.net/attachments/1203942564219330582/1281900250210107422/image.png?ex=66dd6624&is=66dc14a4&hm=a2ae4b1f3646d3996b06fd0a2d34724ea519e8ddaf26d67eb80afb51514eb2a1&=&format=webp&quality=lossless&width=675&height=320)
-![Web Applications Wireframes-5](https://media.discordapp.net/attachments/1203942564219330582/1281900278005895210/image.png?ex=66dd662a&is=66dc14aa&hm=a400761a72b675858c849d0b6590570cb3bae5ac097eb6f811eb26d0e594c079&=&format=webp&quality=lossless&width=675&height=320)
+![Web Applications Wireframes-1](https://media.discordapp.net/attachments/1281807145603436607/1281915924903100498/image.png?ex=66dd74bd&is=66dc233d&hm=d9ca65b358daf1b94c240710d7c09c34b022417630e245efa7efcb2bf8082a20&=&format=webp&quality=lossless&width=1025&height=451)
+![Web Applications Wireframes-2](https://media.discordapp.net/attachments/1281807145603436607/1281923727113584673/image.png?ex=66dd7c01&is=66dc2a81&hm=a88d119f3f777d4c5e097f789dfbf9b8aa755258d0852f221c21dc2d60d44ff8&=&format=webp&quality=lossless&width=1025&height=296)
+![Web Applications Wireframes-3](https://media.discordapp.net/attachments/1281807145603436607/1281923727113584673/image.png?ex=66dd7c01&is=66dc2a81&hm=a88d119f3f777d4c5e097f789dfbf9b8aa755258d0852f221c21dc2d60d44ff8&=&format=webp&quality=lossless&width=1025&height=296)
+![Web Applications Wireframes-4](https://media.discordapp.net/attachments/1281807145603436607/1281924036598825001/image.png?ex=66dd7c4b&is=66dc2acb&hm=30532454925a0c0efe20bd21e1a0c8d28a68e1c9d749a31bfcf3c9a097a70fcd&=&format=webp&quality=lossless&width=550&height=223)
+![Web Applications Wireframes-5](https://media.discordapp.net/attachments/1281807145603436607/1281924220812791903/image.png?ex=66dd7c77&is=66dc2af7&hm=2c42a69651e6e2f0214c8f64d6f9cf47dc3a7a97fc05c0c82f594349af497292&=&format=webp&quality=lossless&width=550&height=235)
 ### 4.4.4. Web Applications User Flow Diagrams
 ![Web Applications Wireframes](https://media.discordapp.net/attachments/1203942564219330582/1281905637428691076/image.png?ex=66dd6b28&is=66dc19a8&hm=80e5895ba9038c84f496d96f7ed3bd646ccae052a818640dc34266ee633e7b17&=&format=webp&quality=lossless&width=675&height=268)
 ## 4.5. Web Applications Prototyping
