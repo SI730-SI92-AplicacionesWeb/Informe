@@ -145,7 +145,7 @@ Ingresamos el dominio de la landing page
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Dado que el primer sprint se centra en la documentación y la creación del landing page, 4 de los 6 integrantes trabajaron en el desarrollo de ambas 
+Dado que el primer sprint se centra en la documentación y la creación del landing page, 4 de los 6 integrantes trabajaron en el desarrollo de ambas. Donde se ve reflejado en los commits.
 
 ![Fto](https://media.discordapp.net/attachments/1281807145603436607/1281916965807718410/image.png?ex=66dd75b5&is=66dc2435&hm=c1a1b4c54c98fe22e9755c5169582581630fa374980c9c7960eeb8bc1e6d5e8e&=&format=webp&quality=lossless&width=1025&height=433) 
 
