@@ -26,3 +26,14 @@
    3.3. JavaScript: Lenguaje de programación central para el desarrollo web, utilizado para crear aplicaciones interactivas y dinámicas.
 
 
+### 5.1.2. Source Code Management
+
+Para el control de versiones, el equipo utilizará GitHub como la plataforma de gestión. Se ha creado una organización denominada "Turisteando" para alojar todos los repositorios relacionados con el proyecto.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Para mantener una codificación coherente en nuestro proyecto con Vue.js en IntelliJ IDEA, adoptaremos convenciones como camelCase y UpperCamelCase para variables, funciones y clases.
+
+Se seguirán las prácticas de "conventional commits" tanto para la creación de ramas como para los commits, utilizando el modelo de GitFlow. Las ramas se nombrarán siguiendo el formato "type/title", como por ejemplo "feat/main-component" para nuevas funcionalidades.
+
+El flujo de versiones centrará el desarrollo en la rama "main", que contendrá la versión de producción de la aplicación. Todas las características y correcciones se fusionarán en esta rama principal, asegurando un desarrollo ordenado y consistente del proyecto.
