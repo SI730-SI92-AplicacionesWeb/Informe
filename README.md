@@ -63,8 +63,8 @@ En el marco de Scrum, un Sprint es un período de tiempo determinado y corto en 
 | **Date** | 30/03/2024 |
 | **Time** | 08:00 pm |
 | **Location** | Reunión virtual a través del Google Meet |
-| **Prepared by** | Max Anthony Paitan Pumacahua |
-| **Attendees (to planning meeting)** | Alexander Alberto Cantoral Sedamano, Max Anthony Paitan Pumacahua, Carlos Alejandro de la Cruz Villareal, Diego Rolin Acuña Tomas, Miguel Angel Gomez Hurtado |
+| **Prepared by** | Alexander Justo |
+| **Attendees (to planning meeting)** | Carlos Alejandro De La Cruz Villarreal, Rafael Agustin Pacheco Lavado, Alexander Paolo Justo Yauricasa, Erick Alessander Vasquez Goicochea|
 | **Sprint n - 1 Review Summary** | En esta primera reunión de grupo realizada nos centramos en la asignación de tareas para la realización de la documentación a presentar para la primera entrega, así como también iniciar con la primera versión del Landing Page. Se repartió el trabajo y se designó responsabilidades a cada uno. |
 | **Sprint n - 1 Retrospective Summary** | No existen resultados anteriores dado que es la primera reunión grupal. |
 | **Sprint Goal & User Stories** |   |
