@@ -657,6 +657,10 @@ Luis desea visitar un lugar turístico con un guía
     <td><strong>US26</strong> – Ver detalles generales del servicio</td>
     <td><strong>US27</strong> - Actualizar producto</td>
   </tr>
+   <tr>
+    <td><strong>US28</strong> – Revisar los servicios ofrecidos</td>
+    <td><strong>US29</strong> - Obtener contacto con los administradores</td>
+  </tr>
   
 </table>
 
@@ -689,6 +693,9 @@ Luis desea visitar un lugar turístico con un guía
 |US25 | Personalizar ofertas | Como guía, quiero tener la capacidad de personalizar las ofertas y los itinerarios de los tours según las preferencias y necesidades específicas de los turistas, para ofrecer experiencias de viaje más personalizadas y memorables | ESCENARIO: Personalizar ofertas<br> Dado que el guía necesita ofrecer ofertas para atraer turistas Cuando ingrese a la sección de gestión de su cuenta, ingrese a generar ofertas Y cree una oferta rellenando los campos, dando clic a aceptar Entonces el guía podrá generar una oferta en sus servicios, que le ayudarán a atraer más turistas|07|
 | US26 | Ver detalles generales del servicio | Como visitante, quiero poder ver detalles generales del landing page para tener un panorama general de lo ofrecido en la plataforma web    | ESCENARIO: Ver pantalla principal del landing page<br>Dado que el visitante quiere ingresar al landing page, para ver detalles de la página Cuando ingrese al landing page con el link Entonces se mostrará la pantalla principal del landing page, siendo la parte superior|08|
 |US27 | Ver misión y visión del proyecto | Como visitante, quiero poder ver la misión y visión del proyecto, para poder revisar los valores de la empresa y poder usar sus servicios | ESCENARIO: Ver misión y visión<br> Dado que el visitante quiere revisar la misión y visión del proyecto Cuando ingrese al landing page Y haga clic en “valores” Entonces el landing page mandará a la sección de misión y visión al visitante| 08 |
+|US28| Revisar los servicios ofrecidos | Como visitante, quiero tener acceso a pestaña de comunidad, donde pueda observar comentarios de usuarios de la plataforma web, para poder animarme a usarla | ESCENARIO: Ver servicios ofrecidos<br> Dado que el visitante quiere revisar que servicios se ofrecen por la empresa Cuando ingrese al landing page Y haga clic en “servicios” Entonces el landing page mandará al visitante | 08 | 
+|US29 | Obtener contacto con los administradores | Como visitante, quiero tener la opción de ponerme en contacto con los administradores de la plataforma para realizar consultas, reportar problemas o solicitar asistencia adicional cuando sea necesario | ESCENARIO: Obtener contacto con los administradores por correo<br> Dado que el visitante quiere ponerse en contacto con los administradores Cuando ingrese al landing page Y haga clic en “contacto” Entonces el landing page mandará al visitante a la sección de contacto, donde tendrá que seguir lo solicitado| 08 |
+
 
 
 
@@ -733,6 +740,8 @@ Los story points se colocarán según el esfuerzo que se necesita para realizar 
 | 25     | US25          | Personalizar ofertas | Como guía, quiero tener la capacidad de personalizar las ofertas y los itinerarios de los tours según las preferencias y necesidades específicas de los turistas, para ofrecer experiencias de viaje más personalizadas y memorables | 3 |
 | 26     | US26          | Ver detalles generales del servicio | Como visitante, quiero poder ver detalles generales del landing page para tener un panorama general de lo ofrecido en la plataforma web. | 1 |
 | 27     | US27          | Ver misión y visión del proyecto | Como visitante, quiero poder ver la misión y visión del proyecto, para poder revisar los valores de la empresa y poder usar sus servicios | 2 |
+| 28 | US28 | Revisar los servicios ofrecidos | Como visitante, quiero tener acceso a pestaña de comunidad, donde pueda observar comentarios de usuarios de la plataforma web, para poder animarme a usarla | 5 |
+| 29 | US29 | Obtener contacto con los administradores | Como visitante, quiero tener la opción de ponerme en contacto con los administradores de la plataforma para realizar consultas, reportar problemas o solicitar asistencia adicional cuando sea necesario | 3 |
 
 
 
