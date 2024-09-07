@@ -28,7 +28,6 @@
 | Rafael Agustin Pacheco Lavado | U202014215 |
 | ************ | ************ |
 | ************ | ************ |
-| ************ | ************ |
 
 
 
@@ -174,9 +173,7 @@ Tursitos es nuestra innovadora plataforma digital diseñada para conectar a viaj
 | Carlos Alejandro De La Cruz Villarreal | u20211c036 | Soy un estudiante la carrera de Ingeniería de Software en la UPC; considero que soy una persona responsable y con una fuerte motivación para culminar todos mis trabajos universitarios. Me comprometo a cumplir y motivar a mis compañeros de grupo para poder lograr el objetivo del curso. | ![Foto Carlo](https://media.discordapp.net/attachments/1091453401205854218/1281151821100089405/Carlos.png?ex=66daad1c&is=66d95b9c&hm=4db6a8ba340ba9785ed4fc679c2451e5230ae96531b60760e5125e17c3f6a3bf&=&format=webp&quality=lossless&width=263&height=350) |
 |Jose Raul Chirito Torres|U20201A203|Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona amable e intelingente, con un fuerte compromiso con los trabajos grupales. Me esfuerzo por cumplir con mis metas y colaborar eficazmente con mis compañeros|![Foto Erick](https://media.discordapp.net/attachments/1281807145603436607/1281872610313113672/foto_perfil.jpg?ex=66dd4c66&is=66dbfae6&hm=caccf79f81297e45f8b4243e7153c61ad67e0560a1d75bac44487811f0dd4551&=&format=webp&width=419&height=559)|
 |Rafael Agustin Pacheco Lavado|U202014215|Soy estudiante de Ingeniería de Software en la UPC. Me considero una persona puntual y responsable, con una fuerte motivación para completar mis trabajos académicos. Me esfuerzo por cumplir con mis tareas y colaborar eficazmente con mis compañeros de equipo para alcanzar los objetivos del curso.|![Foto Rafael](https://media.discordapp.net/attachments/1203942564219330582/1281841448521564191/xd.jpg?ex=66dd2f60&is=66dbdde0&hm=7ea55da599a3f7f497402b8d7631a438708b77cca9804376e2fffa3603eefc32&=&format=webp&width=263&height=350) |
-|--------------|--------------|--------------|--------------|
-|--------------|--------------|--------------|--------------|
-| ************ | ************ | ************ | ************ |
+
 ## 1.2 Solution Profile 
 ### 1.2.1 Antecedentes y Problemática
 En esta parte utilizamos el 5w 2h para conocer los puntos importantes del problema al cual nos enfrentamos:
