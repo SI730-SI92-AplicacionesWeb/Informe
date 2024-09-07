@@ -2,19 +2,19 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
-**Curso: Aplicaciones Web** 
+**Curso:** Aplicaciones Web
 
-**Sección: SI92** 
+**Sección:**  SI92
 
-**Profesor: Naldo Reupo-Musayon Gastulo** 
+**Profesor:**  Naldo Reupo-Musayon Gastulo 
 
-**Carrera: Ingeniería de Software**
+**Carrera:**  Ingeniería de Software
 
-**Ciclo: 2024-02**
+**Ciclo:** 2024-02
 
-**Startup: Motoratones** 
+**Startup:**  Motoratones
 
-**Producto: Tursitos** 
+**Producto:**  Tursitos
 
 ### Integrantes:
 
@@ -24,7 +24,7 @@
 
 | Nombre       | Código       |
 |--------------|--------------|
-| ************ | ************ |
+| Alexande Paolo Justo Yauricasa | U20191C054 |
 | ************ | ************ |
 | ************ | ************ |
 | ************ | ************ |
