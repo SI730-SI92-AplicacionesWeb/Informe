@@ -411,13 +411,22 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 **Entrevista a Interesado**
 | Registro de entrevista 1 | | 
 |------------ |------------|
+| Nombre:     |  Renzo Baldeon     |
+| Edad:       | 24 |
+| Timing: | 3:54  |
+| Captura | ![Renzo](https://media.discordapp.net/attachments/1281807145603436607/1281846380435996702/image.png?ex=66dd33f8&is=66dbe278&hm=5bf7d6c4fa337c33a7f046b8985b83a0aacfac6376dac57feb21003d1fec618e&=&format=webp&quality=lossless&width=550&height=258) |
+|Resumen: | |
+| Link | https://drive.google.com/file/d/1fx0a_I-qtGEThfF_DbfbCSY0m3zcn03b/view?usp=sharing |
+
+| Registro de entrevista 2 | | 
+|------------ |------------|
 | Nombre:     |       |
 | Edad:       | |
-| Distrito: |  |
 | Timing: |  |
 | Captura | |
 |Resumen: | |
 | Link |  |
+
 
 **Entrevista a Guia turistico**
 
