@@ -358,12 +358,7 @@ Realizamos este análisis para poder descubrir o identificar espacios de interé
 Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a nuestros competidores.
 |              |        Oportunidades      | Amenazas |
 |--------------|--------------|--------------|
-|--------------|O1: Expansión al mercado peruano
-O2: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos
-O3: Colaboraciones con empresas relacionadas al sector turismo
-|A1: Cambios en la regulación gubernamental en el sector turismo
-A2: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio
-A3: Riesgos en la protección de datos|
+|--------------|O1: Expansión al mercado peruano <br>O2: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br> O3: Colaboraciones con empresas relacionadas al sector turismo|A1: Cambios en la regulación gubernamental en el sector turismo <br>A2: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio <br>A3: Riesgos en la protección de datos|
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
