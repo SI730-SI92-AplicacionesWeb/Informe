@@ -111,16 +111,7 @@
 
 | Epic/Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID)|
 |-------|-----------------|----------------------------|----------------------------------------|---------|
-|US01| Registrar Usuario| Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles| ESCENARIO: Registro exitoso como turista Dado que el turista desea registrarse en la plataforma web
-Cuando el turista ingrese sus datos correctamente en la sección de registro para turistas
-Y de clic en “registrar”
-Entonces el turista se registrará de forma exitosa
- 
-ESCENARIO: Registro erróneo como turista
-Dado que el turista desea registrarse en la plataforma web
-Cuando el turista ingrese datos erróneos en la sección de registro
-Y de clic en “registrar”
-Entonces la plataforma le mostrará un mensaje de error, y tendrá que corregirlo|
+|US01| Registrar Usuario| Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles| ESCENARIO: Registro exitoso como turista Dado que el turista desea registrarse en la plataforma web Cuando el turista ingrese sus datos correctamente en la sección de registro para turistas Y de clic en “registrar”Entonces el turista se registrará de forma exitosa <br> ESCENARIO: Registro erróneo como turist Dado que el turista desea registrarse en la plataforma web Cuando el turista ingrese datos erróneos en la sección de registro Y de clic en “registrar” Entonces la plataforma le mostrará un mensaje de error, y tendrá que corregirlo|
 
 
 
