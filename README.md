@@ -57,7 +57,13 @@ Esta sección aborda los sistemas de navegación que los usuarios utilizarán al
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![Landing Page Wireframe](https://media.discordapp.net/attachments/1203942564219330582/1281864098757218395/image.png?ex=66dd4479&is=66dbf2f9&hm=20cfa94350abbcbec48177c19bd436eef2bcf2c4694549840d88e7a373457038&=&format=webp&quality=lossless&width=675&height=320)
+
 ### 4.3.2. Landing Page Mock-up
+
+![Landing Page Mock-up](https://media.discordapp.net/attachments/1203942564219330582/1281863959908974695/image.png?ex=66dd4457&is=66dbf2d7&hm=eb7c683e95639909245aa4cf56638cb2da8c433e1fda8fa384a9ba390b482ad2&=&format=webp&quality=lossless&width=675&height=320)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
