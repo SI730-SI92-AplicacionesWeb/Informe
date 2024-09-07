@@ -302,6 +302,7 @@ Creemos que al ofrecer una página intuitiva que permita a los guías crear un p
 
 #### 1.2.2.4. Lean UX Canvas
 <img src="assets/photos/canvas.png">
+Ver a detalle en el anexo 1
 
 ## 1.3 Segmentos Objetivo
 Segmento Objetivo #1: **Viajeros (18+ años)**
@@ -317,3 +318,5 @@ Este segmento está compuesto por guías turísticos experimentados, mayores de 
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+Anexo 1: Link del Lean Ux Canvas: 
+https://www.figma.com/design/k4KqWTBoMiBt56x1bP2Nys/Untitled?node-id=0-3&t=tOGrjWOTQ5eWb0Ko-1 
