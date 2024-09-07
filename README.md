@@ -319,10 +319,15 @@ Nuestros competidores son empresas dentro del sector turístico, específicament
 
 A continuación, mencionaremos algunos de los competidores de nuestro rubro:
 **Get Your Guide: https://www.getyourguide.es/**
-<img scr ="assets/photos/referencia1.png">
+
+![referencias1](https://media.discordapp.net/attachments/1281807145603436607/1281829189003116627/referencia1.png?ex=66dd23f5&is=66dbd275&hm=5214b9f14a2ab4b2cbbd8a20d4cdd627ea5340334a425f40bbe5030d272b9b1f&=&format=webp&quality=lossless&width=550&height=263)
+
 **Tours By Locals: https://www.toursbylocals.com/**
-<img scr ="assets/photos/referencia2.png">
+
+![referencias2](https://media.discordapp.net/attachments/1281807145603436607/1281829039379710023/referencia2.png?ex=66dd23d2&is=66dbd252&hm=357776730f5441802655cb9aa0c5114e33ae99e372e3e99deb7d07e62670aed6&=&format=webp&quality=lossless&width=550&height=266)
+
 **Viator: https://www.viator.com/es-PE/**
+
 ![referencias3](https://media.discordapp.net/attachments/1281807145603436607/1281811656690892892/Captura_de_pantalla_2024-09-06_220130.png?ex=66dd13a1&is=66dbc221&hm=19fd0ed0af86558569bb683f41b963bd917975692bb33dacd002b3a39925949b&=&format=webp&quality=lossless&width=550&height=239)
 
 ### 2.1.1 Análisis competitivo
@@ -360,12 +365,9 @@ Vamos a aplicar diferentes estrategias y tácticas para poder hacerle frente a n
 |--------------|--------------|--------------|
 ||**O1**: Expansión al mercado peruano <br>**O2**: Puede sobresalir gracias al objetivo específico de conseguir guías turísticos<br> **O3**: Colaboraciones con empresas relacionadas al sector turismo|**A1**: Cambios en la regulación gubernamental en el sector turismo <br>**A2**: Impacto negativo en el usuario ante problemas de seguridad o calidad del servicio <br>**A3**: Riesgos en la protección de datos|
 |**Fortalezas**|**Estrategias FO (Ofensivas)**|**Estrategias FA (Defensivas)**|
-|**F1**: Facilidad de uso de la aplicación<br>**F2**: Función de registro de guías turísticos<br>**F3**: Verificación de guías turísticos<br>**F4**: Conexión directa entre viajeros y guías turísticos experimentados<br>**F5**: Uso de herramientas digitales adicionales para una mejor experiencia de usuario|**FO1**: Selección de guías turísticos de acuerdo al conocimiento de cada zona en el país, para ampliar así la cartera de clientes (O1, F2, F3)<br>**FO2**: Uso de herramientas digitales para conseguir una mayor cantidad de colaboraciones con empresas (F1, F5, O3)
-|**FA1**: Interfaz de uso sencillo en el rubro, incluyendo aspectos adicionales como la regulación legal en el rubro, actualizada y completa, así como un reglamento de conducta entre viajeros-guías (F1, F4, A1)<br>**FA2**: Mejorar la seguridad de la plataforma –registro de usuarios y guías turísticos– para que los usuarios puedan utilizarla con confianza (F2, F3, A2, A3)|
+|**F1**: Facilidad de uso de la aplicación<br>**F2**: Función de registro de guías turísticos<br>**F3**: Verificación de guías turísticos<br>**F4**: Conexión directa entre viajeros y guías turísticos experimentados<br>**F5**: Uso de herramientas digitales adicionales para una mejor experiencia de usuario|**FO1**: Selección de guías turísticos de acuerdo al conocimiento de cada zona en el país, para ampliar así la cartera de clientes (O1, F2, F3)<br>**FO2**: Uso de herramientas digitales para conseguir una mayor cantidad de colaboraciones con empresas (F1, F5, O3)|**FA1**: Interfaz de uso sencillo en el rubro, incluyendo aspectos adicionales como la regulación legal en el rubro, actualizada y completa, así como un reglamento de conducta entre viajeros-guías (F1, F4, A1)<br>**FA2**: Mejorar la seguridad de la plataforma –registro de usuarios y guías turísticos– para que los usuarios puedan utilizarla con confianza (F2, F3, A2, A3)|
 |**Debilidades**|**Estrategias DO (Reorientación)**|**Estrategias DA (Supervivencia)**|
-|**D1**: Empresa nueva<br>**D2**: Dependencia de la cantidad de usuarios<br>**D3**: Falta de colaboradores<br>**D4**: Competencia en el mercado<br> 
-|**DO1**: Empezar el desarrollo de la empresa adaptada al mercado peruano (D1, O1)<br>**DO2**: Aumentar la cantidad de usuarios gracias a los colaboradores, relacionados al sector turismo, que puedan unirse al proyecto (D2, D3, D4, O3)<br>
-|**DA1**:  Generar confianza en los usuarios y colaboradores mejorando el sistema de seguridad, para así atraer mayor cantidad de usuarios gracias a las recomendaciones (D2, D3, D4, A2)|
+|**D1**: Empresa nueva<br>**D2**: Dependencia de la cantidad de usuarios<br>**D3**: Falta de colaboradores<br>**D4**: Competencia en el mercado<br> |**DO1**: Empezar el desarrollo de la empresa adaptada al mercado peruano (D1, O1)<br>**DO2**: Aumentar la cantidad de usuarios gracias a los colaboradores, relacionados al sector turismo, que puedan unirse al proyecto (D2, D3, D4, O3)<br>|**DA1**:  Generar confianza en los usuarios y colaboradores mejorando el sistema de seguridad, para así atraer mayor cantidad de usuarios gracias a las recomendaciones (D2, D3, D4, A2)|
 
 ## 2.2 Entrevistas 
 
